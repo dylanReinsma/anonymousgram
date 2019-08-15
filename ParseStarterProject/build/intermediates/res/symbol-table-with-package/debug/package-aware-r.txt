@@ -1060,6 +1060,7 @@ id checkbox
 id chronometer
 id classic
 id collapseActionView
+id constraintLayout
 id contact
 id container_all
 id container_current
@@ -1125,6 +1126,7 @@ id line3
 id listMode
 id list_item
 id loading_indicator
+id logoImageView
 id logo_only
 id main_container
 id match_global_nicknames
@@ -1149,6 +1151,7 @@ id omnibox_url_section
 id packed
 id parent
 id parentPanel
+id passwordEditText
 id percent
 id place_autocomplete_clear_button
 id place_autocomplete_powered_by_google
@@ -1224,6 +1227,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textTitle
+id textView
 id text_empty_message
 id text_list_view
 id thing_proto
@@ -1240,6 +1244,7 @@ id uniform
 id up
 id url
 id useLogo
+id usernameEditText
 id wide
 id withText
 id wrap
