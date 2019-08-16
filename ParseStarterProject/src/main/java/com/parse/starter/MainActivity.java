@@ -8,6 +8,7 @@
  */
 package com.parse.starter;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.constraint.ConstraintLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -37,6 +38,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ImageView logo;
     ConstraintLayout layout;
 
+    public void showUsers() {
+        Intent intent = new Intent(getApplicationContext(), UserActivity.class);
+        startActivity(intent);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,6 +59,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         layout = findViewById(R.id.constraintLayout);
         layout.setOnClickListener(this);
+
+        if (ParseUser.getCurrentUser() != null) {
+            showUsers();
+        }
 
         ParseAnalytics.trackAppOpenedInBackground(getIntent());
     }
@@ -86,32 +96,36 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         if (username.matches("") || password.matches("")) {
             Toast.makeText(this, "A username and password are required", Toast.LENGTH_LONG).show();
-        } else if (logInModeActive = false) {
-            ParseUser user = new ParseUser();
-            user.setUsername(username);
-            user.setPassword(password);
-
-            user.signUpInBackground(new SignUpCallback() {
-                @Override
-                public void done(ParseException e) {
-                    if (e == null) {
-                        Log.i("Signup", "Success");
-                    } else {
-                        Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
-                    }
-                }
-            });
         } else {
-            ParseUser.logInInBackground(username, password, new LogInCallback() {
-                @Override
-                public void done(ParseUser parseUser, ParseException e) {
-                    if (parseUser != null) {
-                        Log.i("Login", "ok!");
-                    } else {
-                        Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
+            if (logInModeActive = false) {
+                ParseUser user = new ParseUser();
+                user.setUsername(username);
+                user.setPassword(password);
+
+                user.signUpInBackground(new SignUpCallback() {
+                    @Override
+                    public void done(ParseException e) {
+                        if (e == null) {
+                            Log.i("Signup", "Success");
+                            showUsers();
+                        } else {
+                            Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
+                        }
                     }
-                }
-            });
+                });
+            } else {
+                ParseUser.logInInBackground(username, password, new LogInCallback() {
+                    @Override
+                    public void done(ParseUser parseUser, ParseException e) {
+                        if (parseUser != null) {
+                            Log.i("Login", "ok!");
+                            showUsers();
+                        } else {
+                            Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
+                        }
+                    }
+                });
+            }
         }
     }
 

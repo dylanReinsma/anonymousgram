@@ -1,4 +1,4 @@
-com.parse.starter
+com.dylanreinsma.anonymousgram
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1244,6 +1244,7 @@ id uniform
 id up
 id url
 id useLogo
+id userListView
 id usernameEditText
 id wide
 id withText
@@ -1284,6 +1285,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_user
 layout cast_expanded_controller_activity
 layout cast_help_text
 layout cast_intro_overlay

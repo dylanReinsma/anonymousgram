@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright (c) 2015-present, Parse, LLC.
-  ~ All rights reserved.
-  ~
-  ~ This source code is licensed under the BSD-style license found in the
-  ~ LICENSE file in the root directory of this source tree. An additional grant
-  ~ of patent rights can be found in the PATENTS file in the same directory.
--->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.parse.starter"
+    package="com.dylanreinsma.anonymousgram"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -30,10 +22,10 @@
         android:required="true" />
 
     <permission
-        android:name="com.parse.starter.permission.C2D_MESSAGE"
+        android:name="com.dylanreinsma.anonymousgram.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.parse.starter.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.dylanreinsma.anonymousgram.permission.C2D_MESSAGE" />
 
     <application
         android:name="com.parse.starter.StarterApplication"
@@ -43,6 +35,7 @@
         android:label="@string/app_name"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.parse.starter.UserActivity" />
         <activity
             android:name="com.parse.starter.MainActivity"
             android:label="@string/app_name" >
@@ -122,7 +115,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
             android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
             <intent-filter>
-                <data android:scheme="tagmanager.c.com.parse.starter" />
+                <data android:scheme="tagmanager.c.com.dylanreinsma.anonymousgram" />
 
                 <action android:name="android.intent.action.VIEW" />
 
@@ -152,7 +145,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
-                <category android:name="com.parse.starter" />
+                <category android:name="com.dylanreinsma.anonymousgram" />
             </intent-filter>
         </receiver>
         <!--
@@ -176,7 +169,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.parse.starter.firebaseinitprovider"
+            android:authorities="com.dylanreinsma.anonymousgram.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -186,7 +179,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.parse.starter.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.dylanreinsma.anonymousgram.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

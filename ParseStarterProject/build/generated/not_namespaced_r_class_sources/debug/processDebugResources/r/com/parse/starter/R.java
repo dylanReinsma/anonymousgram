@@ -4100,11 +4100,12 @@ public final class R {
     public static final int up=0x7f080104;
     public static final int url=0x7f080105;
     public static final int useLogo=0x7f080106;
-    public static final int usernameEditText=0x7f080107;
-    public static final int wide=0x7f080108;
-    public static final int withText=0x7f080109;
-    public static final int wrap=0x7f08010a;
-    public static final int wrap_content=0x7f08010b;
+    public static final int userListView=0x7f080107;
+    public static final int usernameEditText=0x7f080108;
+    public static final int wide=0x7f080109;
+    public static final int withText=0x7f08010a;
+    public static final int wrap=0x7f08010b;
+    public static final int wrap_content=0x7f08010c;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;
@@ -4144,39 +4145,40 @@ public final class R {
     public static final int abc_search_view=0x7f0a0019;
     public static final int abc_select_dialog_material=0x7f0a001a;
     public static final int activity_main=0x7f0a001b;
-    public static final int cast_expanded_controller_activity=0x7f0a001c;
-    public static final int cast_help_text=0x7f0a001d;
-    public static final int cast_intro_overlay=0x7f0a001e;
-    public static final int cast_mini_controller=0x7f0a001f;
-    public static final int cast_tracks_chooser_dialog_layout=0x7f0a0020;
-    public static final int cast_tracks_chooser_dialog_row_layout=0x7f0a0021;
-    public static final int mr_media_route_chooser_dialog=0x7f0a0022;
-    public static final int mr_media_route_controller_material_dialog_b=0x7f0a0023;
-    public static final int mr_media_route_list_item=0x7f0a0024;
-    public static final int notification_action=0x7f0a0025;
-    public static final int notification_action_tombstone=0x7f0a0026;
-    public static final int notification_media_action=0x7f0a0027;
-    public static final int notification_media_cancel_action=0x7f0a0028;
-    public static final int notification_template_big_media=0x7f0a0029;
-    public static final int notification_template_big_media_custom=0x7f0a002a;
-    public static final int notification_template_big_media_narrow=0x7f0a002b;
-    public static final int notification_template_big_media_narrow_custom=0x7f0a002c;
-    public static final int notification_template_custom_big=0x7f0a002d;
-    public static final int notification_template_icon_group=0x7f0a002e;
-    public static final int notification_template_lines_media=0x7f0a002f;
-    public static final int notification_template_media=0x7f0a0030;
-    public static final int notification_template_media_custom=0x7f0a0031;
-    public static final int notification_template_part_chronometer=0x7f0a0032;
-    public static final int notification_template_part_time=0x7f0a0033;
-    public static final int place_autocomplete_fragment=0x7f0a0034;
-    public static final int place_autocomplete_item_powered_by_google=0x7f0a0035;
-    public static final int place_autocomplete_item_prediction=0x7f0a0036;
-    public static final int place_autocomplete_progress=0x7f0a0037;
-    public static final int select_dialog_item_material=0x7f0a0038;
-    public static final int select_dialog_multichoice_material=0x7f0a0039;
-    public static final int select_dialog_singlechoice_material=0x7f0a003a;
-    public static final int support_simple_spinner_dropdown_item=0x7f0a003b;
-    public static final int tooltip=0x7f0a003c;
+    public static final int activity_user=0x7f0a001c;
+    public static final int cast_expanded_controller_activity=0x7f0a001d;
+    public static final int cast_help_text=0x7f0a001e;
+    public static final int cast_intro_overlay=0x7f0a001f;
+    public static final int cast_mini_controller=0x7f0a0020;
+    public static final int cast_tracks_chooser_dialog_layout=0x7f0a0021;
+    public static final int cast_tracks_chooser_dialog_row_layout=0x7f0a0022;
+    public static final int mr_media_route_chooser_dialog=0x7f0a0023;
+    public static final int mr_media_route_controller_material_dialog_b=0x7f0a0024;
+    public static final int mr_media_route_list_item=0x7f0a0025;
+    public static final int notification_action=0x7f0a0026;
+    public static final int notification_action_tombstone=0x7f0a0027;
+    public static final int notification_media_action=0x7f0a0028;
+    public static final int notification_media_cancel_action=0x7f0a0029;
+    public static final int notification_template_big_media=0x7f0a002a;
+    public static final int notification_template_big_media_custom=0x7f0a002b;
+    public static final int notification_template_big_media_narrow=0x7f0a002c;
+    public static final int notification_template_big_media_narrow_custom=0x7f0a002d;
+    public static final int notification_template_custom_big=0x7f0a002e;
+    public static final int notification_template_icon_group=0x7f0a002f;
+    public static final int notification_template_lines_media=0x7f0a0030;
+    public static final int notification_template_media=0x7f0a0031;
+    public static final int notification_template_media_custom=0x7f0a0032;
+    public static final int notification_template_part_chronometer=0x7f0a0033;
+    public static final int notification_template_part_time=0x7f0a0034;
+    public static final int place_autocomplete_fragment=0x7f0a0035;
+    public static final int place_autocomplete_item_powered_by_google=0x7f0a0036;
+    public static final int place_autocomplete_item_prediction=0x7f0a0037;
+    public static final int place_autocomplete_progress=0x7f0a0038;
+    public static final int select_dialog_item_material=0x7f0a0039;
+    public static final int select_dialog_multichoice_material=0x7f0a003a;
+    public static final int select_dialog_singlechoice_material=0x7f0a003b;
+    public static final int support_simple_spinner_dropdown_item=0x7f0a003c;
+    public static final int tooltip=0x7f0a003d;
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f0b0000;
@@ -4699,35 +4701,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.parse.starter:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.parse.starter:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.parse.starter:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.parse.starter:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.parse.starter:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.parse.starter:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.parse.starter:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.parse.starter:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.parse.starter:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.parse.starter:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.parse.starter:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.parse.starter:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.parse.starter:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.parse.starter:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.parse.starter:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.parse.starter:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.parse.starter:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.parse.starter:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.parse.starter:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.parse.starter:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.parse.starter:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.parse.starter:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.parse.starter:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.parse.starter:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.parse.starter:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.parse.starter:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.parse.starter:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.parse.starter:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.parse.starter:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.dylanreinsma.anonymousgram:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.dylanreinsma.anonymousgram:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.dylanreinsma.anonymousgram:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.dylanreinsma.anonymousgram:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.dylanreinsma.anonymousgram:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.dylanreinsma.anonymousgram:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.dylanreinsma.anonymousgram:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.dylanreinsma.anonymousgram:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.dylanreinsma.anonymousgram:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.dylanreinsma.anonymousgram:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.dylanreinsma.anonymousgram:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.dylanreinsma.anonymousgram:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.dylanreinsma.anonymousgram:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.dylanreinsma.anonymousgram:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.dylanreinsma.anonymousgram:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.dylanreinsma.anonymousgram:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.dylanreinsma.anonymousgram:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.dylanreinsma.anonymousgram:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.dylanreinsma.anonymousgram:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.dylanreinsma.anonymousgram:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.dylanreinsma.anonymousgram:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.dylanreinsma.anonymousgram:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.dylanreinsma.anonymousgram:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.dylanreinsma.anonymousgram:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.dylanreinsma.anonymousgram:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.dylanreinsma.anonymousgram:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.dylanreinsma.anonymousgram:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.dylanreinsma.anonymousgram:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.dylanreinsma.anonymousgram:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4770,7 +4772,7 @@ public final class R {
       0x7f03017c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4778,11 +4780,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:background
+     * @attr name com.dylanreinsma.anonymousgram:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4793,11 +4795,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:backgroundSplit
+     * @attr name com.dylanreinsma.anonymousgram:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4808,11 +4810,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:backgroundStacked
+     * @attr name com.dylanreinsma.anonymousgram:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4821,11 +4823,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetEnd
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4834,11 +4836,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetEndWithActions
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4847,11 +4849,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetLeft
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4860,11 +4862,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetRight
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4873,11 +4875,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetStart
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4886,11 +4888,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetStartWithNavigation
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4898,11 +4900,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:customNavigationLayout
+     * @attr name com.dylanreinsma.anonymousgram:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4920,11 +4922,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:displayOptions
+     * @attr name com.dylanreinsma.anonymousgram:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4932,11 +4934,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:divider
+     * @attr name com.dylanreinsma.anonymousgram:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4945,11 +4947,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:elevation
+     * @attr name com.dylanreinsma.anonymousgram:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4958,21 +4960,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:height
+     * @attr name com.dylanreinsma.anonymousgram:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:hideOnContentScroll
+     * @attr name com.dylanreinsma.anonymousgram:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4980,11 +4982,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:homeAsUpIndicator
+     * @attr name com.dylanreinsma.anonymousgram:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4992,11 +4994,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:homeLayout
+     * @attr name com.dylanreinsma.anonymousgram:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5004,11 +5006,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:icon
+     * @attr name com.dylanreinsma.anonymousgram:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5016,11 +5018,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:indeterminateProgressStyle
+     * @attr name com.dylanreinsma.anonymousgram:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5029,11 +5031,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:itemPadding
+     * @attr name com.dylanreinsma.anonymousgram:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5041,11 +5043,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:logo
+     * @attr name com.dylanreinsma.anonymousgram:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5059,11 +5061,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:navigationMode
+     * @attr name com.dylanreinsma.anonymousgram:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5071,11 +5073,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:popupTheme
+     * @attr name com.dylanreinsma.anonymousgram:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5084,11 +5086,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:progressBarPadding
+     * @attr name com.dylanreinsma.anonymousgram:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5096,21 +5098,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:progressBarStyle
+     * @attr name com.dylanreinsma.anonymousgram:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:subtitle
+     * @attr name com.dylanreinsma.anonymousgram:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5118,21 +5120,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:subtitleTextStyle
+     * @attr name com.dylanreinsma.anonymousgram:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:title
+     * @attr name com.dylanreinsma.anonymousgram:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5140,7 +5142,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:titleTextStyle
+     * @attr name com.dylanreinsma.anonymousgram:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -5222,12 +5224,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.parse.starter:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.parse.starter:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.parse.starter:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.parse.starter:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.parse.starter:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.parse.starter:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.dylanreinsma.anonymousgram:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.dylanreinsma.anonymousgram:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.dylanreinsma.anonymousgram:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.dylanreinsma.anonymousgram:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.dylanreinsma.anonymousgram:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.dylanreinsma.anonymousgram:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -5241,7 +5243,7 @@ public final class R {
       0x7f030158, 0x7f03017c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5249,11 +5251,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:background
+     * @attr name com.dylanreinsma.anonymousgram:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5264,11 +5266,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:backgroundSplit
+     * @attr name com.dylanreinsma.anonymousgram:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5276,11 +5278,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:closeItemLayout
+     * @attr name com.dylanreinsma.anonymousgram:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5289,11 +5291,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:height
+     * @attr name com.dylanreinsma.anonymousgram:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5301,11 +5303,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:subtitleTextStyle
+     * @attr name com.dylanreinsma.anonymousgram:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5313,7 +5315,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:titleTextStyle
+     * @attr name com.dylanreinsma.anonymousgram:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -5323,8 +5325,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.parse.starter:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.parse.starter:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.dylanreinsma.anonymousgram:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.dylanreinsma.anonymousgram:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -5333,7 +5335,7 @@ public final class R {
       0x7f03009e, 0x7f0300bc
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5341,17 +5343,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:expandActivityOverflowButtonDrawable
+     * @attr name com.dylanreinsma.anonymousgram:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:initialActivityCount
+     * @attr name com.dylanreinsma.anonymousgram:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -5361,9 +5363,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AdsAttrs_adSize com.parse.starter:adSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AdsAttrs_adSizes com.parse.starter:adSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AdsAttrs_adUnitId com.parse.starter:adUnitId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AdsAttrs_adSize com.dylanreinsma.anonymousgram:adSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AdsAttrs_adSizes com.dylanreinsma.anonymousgram:adSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AdsAttrs_adUnitId com.dylanreinsma.anonymousgram:adUnitId}</code></td><td></td></tr>
      * </table>
      * @see #AdsAttrs_adSize
      * @see #AdsAttrs_adSizes
@@ -5373,33 +5375,33 @@ public final class R {
       0x7f030022, 0x7f030023, 0x7f030024
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#adSize}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#adSize}
      * attribute's value can be found in the {@link #AdsAttrs} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:adSize
+     * @attr name com.dylanreinsma.anonymousgram:adSize
      */
     public static final int AdsAttrs_adSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#adSizes}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#adSizes}
      * attribute's value can be found in the {@link #AdsAttrs} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:adSizes
+     * @attr name com.dylanreinsma.anonymousgram:adSizes
      */
     public static final int AdsAttrs_adSizes=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#adUnitId}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#adUnitId}
      * attribute's value can be found in the {@link #AdsAttrs} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:adUnitId
+     * @attr name com.dylanreinsma.anonymousgram:adUnitId
      */
     public static final int AdsAttrs_adUnitId=2;
     /**
@@ -5410,12 +5412,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.parse.starter:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.parse.starter:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.parse.starter:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.parse.starter:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.parse.starter:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.parse.starter:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.dylanreinsma.anonymousgram:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.dylanreinsma.anonymousgram:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.dylanreinsma.anonymousgram:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.dylanreinsma.anonymousgram:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.dylanreinsma.anonymousgram:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.dylanreinsma.anonymousgram:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -5442,7 +5444,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5450,11 +5452,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:buttonPanelSideLayout
+     * @attr name com.dylanreinsma.anonymousgram:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5462,11 +5464,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:listItemLayout
+     * @attr name com.dylanreinsma.anonymousgram:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5474,11 +5476,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:listLayout
+     * @attr name com.dylanreinsma.anonymousgram:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5486,21 +5488,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:multiChoiceItemLayout
+     * @attr name com.dylanreinsma.anonymousgram:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:showTitle
+     * @attr name com.dylanreinsma.anonymousgram:showTitle
      */
     public static final int AlertDialog_showTitle=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5508,7 +5510,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:singleChoiceItemLayout
+     * @attr name com.dylanreinsma.anonymousgram:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=6;
     /**
@@ -5519,9 +5521,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.parse.starter:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.parse.starter:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.parse.starter:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.dylanreinsma.anonymousgram:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.dylanreinsma.anonymousgram:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.dylanreinsma.anonymousgram:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5547,7 +5549,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5555,22 +5557,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:srcCompat
+     * @attr name com.dylanreinsma.anonymousgram:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:tint
+     * @attr name com.dylanreinsma.anonymousgram:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5586,7 +5588,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:tintMode
+     * @attr name com.dylanreinsma.anonymousgram:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5597,9 +5599,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.parse.starter:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.parse.starter:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.parse.starter:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.dylanreinsma.anonymousgram:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.dylanreinsma.anonymousgram:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.dylanreinsma.anonymousgram:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5622,7 +5624,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5630,22 +5632,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:tickMark
+     * @attr name com.dylanreinsma.anonymousgram:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:tickMarkTint
+     * @attr name com.dylanreinsma.anonymousgram:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5662,7 +5664,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:tickMarkTintMode
+     * @attr name com.dylanreinsma.anonymousgram:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5802,13 +5804,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.parse.starter:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.parse.starter:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.parse.starter:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.parse.starter:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.parse.starter:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.parse.starter:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.parse.starter:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.dylanreinsma.anonymousgram:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.dylanreinsma.anonymousgram:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.dylanreinsma.anonymousgram:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.dylanreinsma.anonymousgram:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.dylanreinsma.anonymousgram:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.dylanreinsma.anonymousgram:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.dylanreinsma.anonymousgram:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -5836,7 +5838,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5845,11 +5847,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:autoSizeMaxTextSize
+     * @attr name com.dylanreinsma.anonymousgram:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5858,11 +5860,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:autoSizeMinTextSize
+     * @attr name com.dylanreinsma.anonymousgram:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5870,11 +5872,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:autoSizePresetSizes
+     * @attr name com.dylanreinsma.anonymousgram:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5883,11 +5885,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:autoSizeStepGranularity
+     * @attr name com.dylanreinsma.anonymousgram:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5900,21 +5902,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:autoSizeTextType
+     * @attr name com.dylanreinsma.anonymousgram:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:fontFamily
+     * @attr name com.dylanreinsma.anonymousgram:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5924,7 +5926,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:textAllCaps
+     * @attr name com.dylanreinsma.anonymousgram:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -5936,123 +5938,123 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.parse.starter:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.parse.starter:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.parse.starter:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.parse.starter:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.parse.starter:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.parse.starter:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.parse.starter:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.parse.starter:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.parse.starter:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.parse.starter:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.parse.starter:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.parse.starter:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.parse.starter:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.parse.starter:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.parse.starter:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.parse.starter:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.parse.starter:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.parse.starter:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.parse.starter:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.parse.starter:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.parse.starter:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.parse.starter:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.parse.starter:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.parse.starter:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.parse.starter:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.parse.starter:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.parse.starter:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.parse.starter:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.parse.starter:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.parse.starter:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.parse.starter:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.parse.starter:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.parse.starter:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.parse.starter:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.parse.starter:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.parse.starter:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.parse.starter:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.parse.starter:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.parse.starter:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.parse.starter:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.parse.starter:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.parse.starter:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.parse.starter:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.parse.starter:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.parse.starter:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.parse.starter:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.parse.starter:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.parse.starter:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.parse.starter:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.parse.starter:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.parse.starter:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.parse.starter:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.parse.starter:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.parse.starter:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.parse.starter:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.parse.starter:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.parse.starter:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.parse.starter:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.parse.starter:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.parse.starter:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.parse.starter:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.parse.starter:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.parse.starter:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.parse.starter:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.parse.starter:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.parse.starter:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.parse.starter:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.parse.starter:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.parse.starter:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.parse.starter:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.parse.starter:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.parse.starter:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.parse.starter:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.parse.starter:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.parse.starter:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.parse.starter:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.parse.starter:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.parse.starter:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.parse.starter:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.parse.starter:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.parse.starter:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.parse.starter:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.parse.starter:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.parse.starter:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.parse.starter:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.parse.starter:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.parse.starter:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.parse.starter:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.parse.starter:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.parse.starter:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.parse.starter:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.parse.starter:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.parse.starter:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.parse.starter:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.parse.starter:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.parse.starter:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.parse.starter:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.parse.starter:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.parse.starter:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.parse.starter:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.parse.starter:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.parse.starter:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.parse.starter:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.parse.starter:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.parse.starter:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.parse.starter:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.parse.starter:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.parse.starter:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.parse.starter:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.parse.starter:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.parse.starter:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.parse.starter:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.parse.starter:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.parse.starter:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.parse.starter:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.parse.starter:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.parse.starter:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.dylanreinsma.anonymousgram:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.dylanreinsma.anonymousgram:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.dylanreinsma.anonymousgram:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.dylanreinsma.anonymousgram:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.dylanreinsma.anonymousgram:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.dylanreinsma.anonymousgram:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.dylanreinsma.anonymousgram:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.dylanreinsma.anonymousgram:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.dylanreinsma.anonymousgram:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.dylanreinsma.anonymousgram:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.dylanreinsma.anonymousgram:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.dylanreinsma.anonymousgram:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.dylanreinsma.anonymousgram:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.dylanreinsma.anonymousgram:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.dylanreinsma.anonymousgram:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.dylanreinsma.anonymousgram:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.dylanreinsma.anonymousgram:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.dylanreinsma.anonymousgram:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.dylanreinsma.anonymousgram:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.dylanreinsma.anonymousgram:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.dylanreinsma.anonymousgram:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.dylanreinsma.anonymousgram:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.dylanreinsma.anonymousgram:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.dylanreinsma.anonymousgram:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.dylanreinsma.anonymousgram:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.dylanreinsma.anonymousgram:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.dylanreinsma.anonymousgram:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.dylanreinsma.anonymousgram:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.dylanreinsma.anonymousgram:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.dylanreinsma.anonymousgram:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.dylanreinsma.anonymousgram:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.dylanreinsma.anonymousgram:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.dylanreinsma.anonymousgram:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.dylanreinsma.anonymousgram:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.dylanreinsma.anonymousgram:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.dylanreinsma.anonymousgram:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.dylanreinsma.anonymousgram:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.dylanreinsma.anonymousgram:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.dylanreinsma.anonymousgram:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.dylanreinsma.anonymousgram:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.dylanreinsma.anonymousgram:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.dylanreinsma.anonymousgram:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.dylanreinsma.anonymousgram:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.dylanreinsma.anonymousgram:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.dylanreinsma.anonymousgram:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.dylanreinsma.anonymousgram:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.dylanreinsma.anonymousgram:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.dylanreinsma.anonymousgram:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.dylanreinsma.anonymousgram:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.dylanreinsma.anonymousgram:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.dylanreinsma.anonymousgram:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.dylanreinsma.anonymousgram:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.dylanreinsma.anonymousgram:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.dylanreinsma.anonymousgram:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.dylanreinsma.anonymousgram:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.dylanreinsma.anonymousgram:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.dylanreinsma.anonymousgram:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.dylanreinsma.anonymousgram:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.dylanreinsma.anonymousgram:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.dylanreinsma.anonymousgram:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.dylanreinsma.anonymousgram:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.dylanreinsma.anonymousgram:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.dylanreinsma.anonymousgram:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.dylanreinsma.anonymousgram:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.dylanreinsma.anonymousgram:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.dylanreinsma.anonymousgram:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.dylanreinsma.anonymousgram:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.dylanreinsma.anonymousgram:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.dylanreinsma.anonymousgram:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.dylanreinsma.anonymousgram:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.dylanreinsma.anonymousgram:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.dylanreinsma.anonymousgram:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.dylanreinsma.anonymousgram:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.dylanreinsma.anonymousgram:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.dylanreinsma.anonymousgram:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.dylanreinsma.anonymousgram:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.dylanreinsma.anonymousgram:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.dylanreinsma.anonymousgram:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.dylanreinsma.anonymousgram:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.dylanreinsma.anonymousgram:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.dylanreinsma.anonymousgram:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.dylanreinsma.anonymousgram:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.dylanreinsma.anonymousgram:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.dylanreinsma.anonymousgram:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.dylanreinsma.anonymousgram:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.dylanreinsma.anonymousgram:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.dylanreinsma.anonymousgram:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.dylanreinsma.anonymousgram:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.dylanreinsma.anonymousgram:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.dylanreinsma.anonymousgram:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.dylanreinsma.anonymousgram:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.dylanreinsma.anonymousgram:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.dylanreinsma.anonymousgram:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.dylanreinsma.anonymousgram:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.dylanreinsma.anonymousgram:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.dylanreinsma.anonymousgram:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.dylanreinsma.anonymousgram:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.dylanreinsma.anonymousgram:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.dylanreinsma.anonymousgram:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.dylanreinsma.anonymousgram:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.dylanreinsma.anonymousgram:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.dylanreinsma.anonymousgram:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.dylanreinsma.anonymousgram:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.dylanreinsma.anonymousgram:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.dylanreinsma.anonymousgram:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.dylanreinsma.anonymousgram:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.dylanreinsma.anonymousgram:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.dylanreinsma.anonymousgram:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.dylanreinsma.anonymousgram:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.dylanreinsma.anonymousgram:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.dylanreinsma.anonymousgram:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.dylanreinsma.anonymousgram:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.dylanreinsma.anonymousgram:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.dylanreinsma.anonymousgram:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.dylanreinsma.anonymousgram:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.dylanreinsma.anonymousgram:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.dylanreinsma.anonymousgram:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -6229,7 +6231,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6237,11 +6239,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarDivider
+     * @attr name com.dylanreinsma.anonymousgram:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6249,11 +6251,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarItemBackground
+     * @attr name com.dylanreinsma.anonymousgram:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6261,11 +6263,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarPopupTheme
+     * @attr name com.dylanreinsma.anonymousgram:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6282,11 +6284,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:actionBarSize
+     * @attr name com.dylanreinsma.anonymousgram:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6294,11 +6296,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarSplitStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6306,11 +6308,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6318,11 +6320,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarTabBarStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6330,11 +6332,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarTabStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6342,11 +6344,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarTabTextStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6354,11 +6356,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarTheme
+     * @attr name com.dylanreinsma.anonymousgram:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6366,11 +6368,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionBarWidgetTheme
+     * @attr name com.dylanreinsma.anonymousgram:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6378,11 +6380,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6390,11 +6392,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionDropDownStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6402,11 +6404,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionMenuTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6417,11 +6419,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:actionMenuTextColor
+     * @attr name com.dylanreinsma.anonymousgram:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6429,11 +6431,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeBackground
+     * @attr name com.dylanreinsma.anonymousgram:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6441,11 +6443,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeCloseButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6453,11 +6455,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeCloseDrawable
+     * @attr name com.dylanreinsma.anonymousgram:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6465,11 +6467,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeCopyDrawable
+     * @attr name com.dylanreinsma.anonymousgram:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6477,11 +6479,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeCutDrawable
+     * @attr name com.dylanreinsma.anonymousgram:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6489,11 +6491,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeFindDrawable
+     * @attr name com.dylanreinsma.anonymousgram:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6501,11 +6503,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModePasteDrawable
+     * @attr name com.dylanreinsma.anonymousgram:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6513,11 +6515,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModePopupWindowStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6525,11 +6527,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeSelectAllDrawable
+     * @attr name com.dylanreinsma.anonymousgram:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6537,11 +6539,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeShareDrawable
+     * @attr name com.dylanreinsma.anonymousgram:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6549,11 +6551,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeSplitBackground
+     * @attr name com.dylanreinsma.anonymousgram:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6561,11 +6563,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6573,11 +6575,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionModeWebSearchDrawable
+     * @attr name com.dylanreinsma.anonymousgram:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6585,11 +6587,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionOverflowButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6597,11 +6599,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionOverflowMenuStyle
+     * @attr name com.dylanreinsma.anonymousgram:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6609,11 +6611,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:activityChooserViewStyle
+     * @attr name com.dylanreinsma.anonymousgram:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6621,21 +6623,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:alertDialogButtonGroupStyle
+     * @attr name com.dylanreinsma.anonymousgram:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:alertDialogCenterButtons
+     * @attr name com.dylanreinsma.anonymousgram:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6643,11 +6645,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:alertDialogStyle
+     * @attr name com.dylanreinsma.anonymousgram:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6655,11 +6657,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:alertDialogTheme
+     * @attr name com.dylanreinsma.anonymousgram:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6667,11 +6669,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:autoCompleteTextViewStyle
+     * @attr name com.dylanreinsma.anonymousgram:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6679,11 +6681,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:borderlessButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6691,11 +6693,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:buttonBarButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6703,11 +6705,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:buttonBarNegativeButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6715,11 +6717,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:buttonBarNeutralButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6727,11 +6729,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:buttonBarPositiveButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6739,11 +6741,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:buttonBarStyle
+     * @attr name com.dylanreinsma.anonymousgram:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6751,11 +6753,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:buttonStyle
+     * @attr name com.dylanreinsma.anonymousgram:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6763,11 +6765,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:buttonStyleSmall
+     * @attr name com.dylanreinsma.anonymousgram:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6775,11 +6777,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:checkboxStyle
+     * @attr name com.dylanreinsma.anonymousgram:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6787,77 +6789,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:checkedTextViewStyle
+     * @attr name com.dylanreinsma.anonymousgram:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorAccent
+     * @attr name com.dylanreinsma.anonymousgram:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorBackgroundFloating
+     * @attr name com.dylanreinsma.anonymousgram:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorButtonNormal
+     * @attr name com.dylanreinsma.anonymousgram:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorControlActivated
+     * @attr name com.dylanreinsma.anonymousgram:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorControlHighlight
+     * @attr name com.dylanreinsma.anonymousgram:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorControlNormal
+     * @attr name com.dylanreinsma.anonymousgram:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6868,44 +6870,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorError
+     * @attr name com.dylanreinsma.anonymousgram:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorPrimary
+     * @attr name com.dylanreinsma.anonymousgram:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorPrimaryDark
+     * @attr name com.dylanreinsma.anonymousgram:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:colorSwitchThumbNormal
+     * @attr name com.dylanreinsma.anonymousgram:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6913,11 +6915,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:controlBackground
+     * @attr name com.dylanreinsma.anonymousgram:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6926,11 +6928,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:dialogPreferredPadding
+     * @attr name com.dylanreinsma.anonymousgram:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6938,11 +6940,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:dialogTheme
+     * @attr name com.dylanreinsma.anonymousgram:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6950,11 +6952,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:dividerHorizontal
+     * @attr name com.dylanreinsma.anonymousgram:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6962,11 +6964,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:dividerVertical
+     * @attr name com.dylanreinsma.anonymousgram:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6974,11 +6976,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:dropDownListViewStyle
+     * @attr name com.dylanreinsma.anonymousgram:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6987,11 +6989,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:dropdownListPreferredItemHeight
+     * @attr name com.dylanreinsma.anonymousgram:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6999,11 +7001,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:editTextBackground
+     * @attr name com.dylanreinsma.anonymousgram:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7014,11 +7016,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:editTextColor
+     * @attr name com.dylanreinsma.anonymousgram:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7026,11 +7028,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:editTextStyle
+     * @attr name com.dylanreinsma.anonymousgram:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7038,11 +7040,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:homeAsUpIndicator
+     * @attr name com.dylanreinsma.anonymousgram:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7050,11 +7052,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:imageButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7062,11 +7064,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:listChoiceBackgroundIndicator
+     * @attr name com.dylanreinsma.anonymousgram:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7074,11 +7076,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:listDividerAlertDialog
+     * @attr name com.dylanreinsma.anonymousgram:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7086,11 +7088,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:listMenuViewStyle
+     * @attr name com.dylanreinsma.anonymousgram:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7098,11 +7100,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:listPopupWindowStyle
+     * @attr name com.dylanreinsma.anonymousgram:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7111,11 +7113,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:listPreferredItemHeight
+     * @attr name com.dylanreinsma.anonymousgram:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7124,11 +7126,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:listPreferredItemHeightLarge
+     * @attr name com.dylanreinsma.anonymousgram:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7137,11 +7139,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:listPreferredItemHeightSmall
+     * @attr name com.dylanreinsma.anonymousgram:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7150,11 +7152,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:listPreferredItemPaddingLeft
+     * @attr name com.dylanreinsma.anonymousgram:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7163,11 +7165,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:listPreferredItemPaddingRight
+     * @attr name com.dylanreinsma.anonymousgram:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7175,11 +7177,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:panelBackground
+     * @attr name com.dylanreinsma.anonymousgram:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7187,11 +7189,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:panelMenuListTheme
+     * @attr name com.dylanreinsma.anonymousgram:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7200,11 +7202,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:panelMenuListWidth
+     * @attr name com.dylanreinsma.anonymousgram:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7212,11 +7214,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:popupMenuStyle
+     * @attr name com.dylanreinsma.anonymousgram:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7224,11 +7226,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:popupWindowStyle
+     * @attr name com.dylanreinsma.anonymousgram:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7236,11 +7238,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:radioButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7248,11 +7250,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:ratingBarStyle
+     * @attr name com.dylanreinsma.anonymousgram:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7260,11 +7262,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:ratingBarStyleIndicator
+     * @attr name com.dylanreinsma.anonymousgram:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7272,11 +7274,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:ratingBarStyleSmall
+     * @attr name com.dylanreinsma.anonymousgram:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7284,11 +7286,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:searchViewStyle
+     * @attr name com.dylanreinsma.anonymousgram:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7296,11 +7298,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:seekBarStyle
+     * @attr name com.dylanreinsma.anonymousgram:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7308,11 +7310,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:selectableItemBackground
+     * @attr name com.dylanreinsma.anonymousgram:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7320,11 +7322,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:selectableItemBackgroundBorderless
+     * @attr name com.dylanreinsma.anonymousgram:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7332,11 +7334,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:spinnerDropDownItemStyle
+     * @attr name com.dylanreinsma.anonymousgram:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7344,11 +7346,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:spinnerStyle
+     * @attr name com.dylanreinsma.anonymousgram:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7356,11 +7358,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:switchStyle
+     * @attr name com.dylanreinsma.anonymousgram:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7368,11 +7370,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:textAppearanceLargePopupMenu
+     * @attr name com.dylanreinsma.anonymousgram:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7380,11 +7382,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:textAppearanceListItem
+     * @attr name com.dylanreinsma.anonymousgram:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7392,11 +7394,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:textAppearanceListItemSecondary
+     * @attr name com.dylanreinsma.anonymousgram:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7404,11 +7406,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:textAppearanceListItemSmall
+     * @attr name com.dylanreinsma.anonymousgram:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7416,11 +7418,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:textAppearancePopupMenuHeader
+     * @attr name com.dylanreinsma.anonymousgram:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7428,11 +7430,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:textAppearanceSearchResultSubtitle
+     * @attr name com.dylanreinsma.anonymousgram:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7440,11 +7442,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:textAppearanceSearchResultTitle
+     * @attr name com.dylanreinsma.anonymousgram:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7452,11 +7454,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:textAppearanceSmallPopupMenu
+     * @attr name com.dylanreinsma.anonymousgram:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7467,11 +7469,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:textColorAlertDialogListItem
+     * @attr name com.dylanreinsma.anonymousgram:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7482,11 +7484,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:textColorSearchUrl
+     * @attr name com.dylanreinsma.anonymousgram:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7494,11 +7496,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:toolbarNavigationButtonStyle
+     * @attr name com.dylanreinsma.anonymousgram:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7506,11 +7508,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:toolbarStyle
+     * @attr name com.dylanreinsma.anonymousgram:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7521,11 +7523,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:tooltipForegroundColor
+     * @attr name com.dylanreinsma.anonymousgram:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7533,41 +7535,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:tooltipFrameBackground
+     * @attr name com.dylanreinsma.anonymousgram:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:windowActionBar
+     * @attr name com.dylanreinsma.anonymousgram:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=109;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:windowActionBarOverlay
+     * @attr name com.dylanreinsma.anonymousgram:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=110;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:windowActionModeOverlay
+     * @attr name com.dylanreinsma.anonymousgram:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7580,11 +7582,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.parse.starter:windowFixedHeightMajor
+     * @attr name com.dylanreinsma.anonymousgram:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=112;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7597,11 +7599,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.parse.starter:windowFixedHeightMinor
+     * @attr name com.dylanreinsma.anonymousgram:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7614,11 +7616,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.parse.starter:windowFixedWidthMajor
+     * @attr name com.dylanreinsma.anonymousgram:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7631,11 +7633,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.parse.starter:windowFixedWidthMinor
+     * @attr name com.dylanreinsma.anonymousgram:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7648,11 +7650,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.parse.starter:windowMinWidthMajor
+     * @attr name com.dylanreinsma.anonymousgram:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7665,17 +7667,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.parse.starter:windowMinWidthMinor
+     * @attr name com.dylanreinsma.anonymousgram:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:windowNoTitle
+     * @attr name com.dylanreinsma.anonymousgram:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=118;
     public static final int[] AppDataSearch={
@@ -7687,7 +7689,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.parse.starter:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.dylanreinsma.anonymousgram:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7695,13 +7697,13 @@ public final class R {
       0x7f03002a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:allowStacking
+     * @attr name com.dylanreinsma.anonymousgram:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -7711,7 +7713,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CastExpandedController_castControlButtons com.parse.starter:castControlButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastExpandedController_castControlButtons com.dylanreinsma.anonymousgram:castControlButtons}</code></td><td></td></tr>
      * </table>
      * @see #CastExpandedController_castControlButtons
      */
@@ -7719,7 +7721,7 @@ public final class R {
       0x7f03005b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castControlButtons}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castControlButtons}
      * attribute's value can be found in the {@link #CastExpandedController} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7727,7 +7729,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castControlButtons
+     * @attr name com.dylanreinsma.anonymousgram:castControlButtons
      */
     public static final int CastExpandedController_castControlButtons=0;
     /**
@@ -7737,12 +7739,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CastIntroOverlay_castBackgroundColor com.parse.starter:castBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CastIntroOverlay_castButtonBackgroundColor com.parse.starter:castButtonBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CastIntroOverlay_castButtonText com.parse.starter:castButtonText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CastIntroOverlay_castButtonTextAppearance com.parse.starter:castButtonTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CastIntroOverlay_castFocusRadius com.parse.starter:castFocusRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CastIntroOverlay_castTitleTextAppearance com.parse.starter:castTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastIntroOverlay_castBackgroundColor com.dylanreinsma.anonymousgram:castBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastIntroOverlay_castButtonBackgroundColor com.dylanreinsma.anonymousgram:castButtonBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastIntroOverlay_castButtonText com.dylanreinsma.anonymousgram:castButtonText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastIntroOverlay_castButtonTextAppearance com.dylanreinsma.anonymousgram:castButtonTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastIntroOverlay_castFocusRadius com.dylanreinsma.anonymousgram:castFocusRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastIntroOverlay_castTitleTextAppearance com.dylanreinsma.anonymousgram:castTitleTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #CastIntroOverlay_castBackgroundColor
      * @see #CastIntroOverlay_castButtonBackgroundColor
@@ -7756,7 +7758,7 @@ public final class R {
       0x7f03005e, 0x7f030063
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castBackgroundColor}
      * attribute's value can be found in the {@link #CastIntroOverlay} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7767,11 +7769,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:castBackgroundColor
+     * @attr name com.dylanreinsma.anonymousgram:castBackgroundColor
      */
     public static final int CastIntroOverlay_castBackgroundColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castButtonBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castButtonBackgroundColor}
      * attribute's value can be found in the {@link #CastIntroOverlay} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7782,11 +7784,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:castButtonBackgroundColor
+     * @attr name com.dylanreinsma.anonymousgram:castButtonBackgroundColor
      */
     public static final int CastIntroOverlay_castButtonBackgroundColor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castButtonText}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castButtonText}
      * attribute's value can be found in the {@link #CastIntroOverlay} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7796,11 +7798,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:castButtonText
+     * @attr name com.dylanreinsma.anonymousgram:castButtonText
      */
     public static final int CastIntroOverlay_castButtonText=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castButtonTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castButtonTextAppearance}
      * attribute's value can be found in the {@link #CastIntroOverlay} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7808,11 +7810,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castButtonTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:castButtonTextAppearance
      */
     public static final int CastIntroOverlay_castButtonTextAppearance=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castFocusRadius}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castFocusRadius}
      * attribute's value can be found in the {@link #CastIntroOverlay} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7825,11 +7827,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:castFocusRadius
+     * @attr name com.dylanreinsma.anonymousgram:castFocusRadius
      */
     public static final int CastIntroOverlay_castFocusRadius=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castTitleTextAppearance}
      * attribute's value can be found in the {@link #CastIntroOverlay} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7837,7 +7839,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castTitleTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:castTitleTextAppearance
      */
     public static final int CastIntroOverlay_castTitleTextAppearance=5;
     /**
@@ -7847,10 +7849,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CastMiniController_castControlButtons com.parse.starter:castControlButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CastMiniController_castShowImageThumbnail com.parse.starter:castShowImageThumbnail}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CastMiniController_castSubtitleTextAppearance com.parse.starter:castSubtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CastMiniController_castTitleTextAppearance com.parse.starter:castTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastMiniController_castControlButtons com.dylanreinsma.anonymousgram:castControlButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastMiniController_castShowImageThumbnail com.dylanreinsma.anonymousgram:castShowImageThumbnail}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastMiniController_castSubtitleTextAppearance com.dylanreinsma.anonymousgram:castSubtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CastMiniController_castTitleTextAppearance com.dylanreinsma.anonymousgram:castTitleTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #CastMiniController_castControlButtons
      * @see #CastMiniController_castShowImageThumbnail
@@ -7861,7 +7863,7 @@ public final class R {
       0x7f03005b, 0x7f030061, 0x7f030062, 0x7f030063
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castControlButtons}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castControlButtons}
      * attribute's value can be found in the {@link #CastMiniController} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7869,21 +7871,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castControlButtons
+     * @attr name com.dylanreinsma.anonymousgram:castControlButtons
      */
     public static final int CastMiniController_castControlButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castShowImageThumbnail}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castShowImageThumbnail}
      * attribute's value can be found in the {@link #CastMiniController} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:castShowImageThumbnail
+     * @attr name com.dylanreinsma.anonymousgram:castShowImageThumbnail
      */
     public static final int CastMiniController_castShowImageThumbnail=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castSubtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castSubtitleTextAppearance}
      * attribute's value can be found in the {@link #CastMiniController} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7891,11 +7893,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castSubtitleTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:castSubtitleTextAppearance
      */
     public static final int CastMiniController_castSubtitleTextAppearance=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castTitleTextAppearance}
      * attribute's value can be found in the {@link #CastMiniController} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7903,7 +7905,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castTitleTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:castTitleTextAppearance
      */
     public static final int CastMiniController_castTitleTextAppearance=3;
     /**
@@ -7915,7 +7917,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.parse.starter:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.dylanreinsma.anonymousgram:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -7945,12 +7947,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:alpha
+     * @attr name com.dylanreinsma.anonymousgram:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -7961,8 +7963,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.parse.starter:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.parse.starter:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.dylanreinsma.anonymousgram:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.dylanreinsma.anonymousgram:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -7984,18 +7986,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:buttonTint
+     * @attr name com.dylanreinsma.anonymousgram:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8011,7 +8013,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:buttonTintMode
+     * @attr name com.dylanreinsma.anonymousgram:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -8026,61 +8028,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.parse.starter:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.parse.starter:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.parse.starter:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.parse.starter:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.parse.starter:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.parse.starter:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.parse.starter:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.parse.starter:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.parse.starter:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.parse.starter:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.parse.starter:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.parse.starter:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.parse.starter:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.parse.starter:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.parse.starter:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.parse.starter:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.parse.starter:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.parse.starter:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.parse.starter:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.parse.starter:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.parse.starter:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.parse.starter:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.parse.starter:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.parse.starter:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.parse.starter:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.parse.starter:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.parse.starter:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.parse.starter:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.parse.starter:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.parse.starter:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.parse.starter:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.parse.starter:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.parse.starter:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.parse.starter:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.parse.starter:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.parse.starter:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.parse.starter:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.parse.starter:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.parse.starter:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.parse.starter:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.parse.starter:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.parse.starter:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.parse.starter:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.parse.starter:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.parse.starter:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.parse.starter:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.parse.starter:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.parse.starter:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.parse.starter:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.parse.starter:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.parse.starter:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.parse.starter:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.parse.starter:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.parse.starter:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.parse.starter:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.dylanreinsma.anonymousgram:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.dylanreinsma.anonymousgram:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.dylanreinsma.anonymousgram:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.dylanreinsma.anonymousgram:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.dylanreinsma.anonymousgram:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.dylanreinsma.anonymousgram:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.dylanreinsma.anonymousgram:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.dylanreinsma.anonymousgram:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.dylanreinsma.anonymousgram:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.dylanreinsma.anonymousgram:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.dylanreinsma.anonymousgram:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.dylanreinsma.anonymousgram:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.dylanreinsma.anonymousgram:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.dylanreinsma.anonymousgram:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.dylanreinsma.anonymousgram:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.dylanreinsma.anonymousgram:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.dylanreinsma.anonymousgram:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.dylanreinsma.anonymousgram:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.dylanreinsma.anonymousgram:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.dylanreinsma.anonymousgram:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.dylanreinsma.anonymousgram:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.dylanreinsma.anonymousgram:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.dylanreinsma.anonymousgram:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.dylanreinsma.anonymousgram:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.dylanreinsma.anonymousgram:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.dylanreinsma.anonymousgram:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.dylanreinsma.anonymousgram:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.dylanreinsma.anonymousgram:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.dylanreinsma.anonymousgram:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.dylanreinsma.anonymousgram:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.dylanreinsma.anonymousgram:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.dylanreinsma.anonymousgram:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.dylanreinsma.anonymousgram:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.dylanreinsma.anonymousgram:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.dylanreinsma.anonymousgram:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.dylanreinsma.anonymousgram:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.dylanreinsma.anonymousgram:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.dylanreinsma.anonymousgram:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.dylanreinsma.anonymousgram:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.dylanreinsma.anonymousgram:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.dylanreinsma.anonymousgram:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.dylanreinsma.anonymousgram:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.dylanreinsma.anonymousgram:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.dylanreinsma.anonymousgram:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.dylanreinsma.anonymousgram:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.dylanreinsma.anonymousgram:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.dylanreinsma.anonymousgram:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.dylanreinsma.anonymousgram:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.dylanreinsma.anonymousgram:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.dylanreinsma.anonymousgram:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.dylanreinsma.anonymousgram:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.dylanreinsma.anonymousgram:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.dylanreinsma.anonymousgram:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.dylanreinsma.anonymousgram:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.dylanreinsma.anonymousgram:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -8230,17 +8232,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:barrierAllowsGoneWidgets
+     * @attr name com.dylanreinsma.anonymousgram:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8257,21 +8259,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:barrierDirection
+     * @attr name com.dylanreinsma.anonymousgram:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:chainUseRtl
+     * @attr name com.dylanreinsma.anonymousgram:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8279,50 +8281,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:constraintSet
+     * @attr name com.dylanreinsma.anonymousgram:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:constraint_referenced_ids
+     * @attr name com.dylanreinsma.anonymousgram:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:layout_constrainedHeight
+     * @attr name com.dylanreinsma.anonymousgram:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:layout_constrainedWidth
+     * @attr name com.dylanreinsma.anonymousgram:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintBaseline_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8338,20 +8340,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintBaseline_toBaselineOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintBottom_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8367,11 +8369,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintBottom_toBottomOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8387,11 +8389,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintBottom_toTopOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8399,20 +8401,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:layout_constraintCircle
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintCircleAngle
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8421,21 +8423,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_constraintCircleRadius
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:layout_constraintDimensionRatio
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8451,11 +8453,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintEnd_toEndOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8471,11 +8473,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintEnd_toStartOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8484,11 +8486,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_constraintGuide_begin
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8497,20 +8499,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_constraintGuide_end
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintGuide_percent
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8524,11 +8526,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintHeight_default
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8545,11 +8547,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintHeight_max
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8566,29 +8568,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintHeight_min
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintHeight_percent
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintHorizontal_bias
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8602,29 +8604,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintHorizontal_chainStyle
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintHorizontal_weight
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintLeft_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8640,11 +8642,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintLeft_toLeftOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8660,20 +8662,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintLeft_toRightOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintRight_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8689,11 +8691,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintRight_toLeftOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8709,11 +8711,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintRight_toRightOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8729,11 +8731,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintStart_toEndOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8749,20 +8751,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintStart_toStartOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintTop_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8778,11 +8780,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintTop_toBottomOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8798,20 +8800,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintTop_toTopOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintVertical_bias
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8825,20 +8827,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintVertical_chainStyle
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintVertical_weight
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8852,11 +8854,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintWidth_default
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8873,11 +8875,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintWidth_max
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8894,20 +8896,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintWidth_min
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintWidth_percent
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8916,11 +8918,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_editor_absoluteX
+     * @attr name com.dylanreinsma.anonymousgram:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8929,11 +8931,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_editor_absoluteY
+     * @attr name com.dylanreinsma.anonymousgram:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8942,11 +8944,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginBottom
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8955,11 +8957,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginEnd
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8968,11 +8970,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginLeft
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8981,11 +8983,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginRight
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8994,11 +8996,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginStart
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9007,11 +9009,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginTop
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9029,7 +9031,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_optimizationLevel
+     * @attr name com.dylanreinsma.anonymousgram:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -9039,8 +9041,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.parse.starter:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.parse.starter:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.dylanreinsma.anonymousgram:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.dylanreinsma.anonymousgram:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -9049,7 +9051,7 @@ public final class R {
       0x7f03007b, 0x7f03009c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9057,11 +9059,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:content
+     * @attr name com.dylanreinsma.anonymousgram:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9074,7 +9076,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:emptyVisibility
+     * @attr name com.dylanreinsma.anonymousgram:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -9111,59 +9113,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.parse.starter:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.parse.starter:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.parse.starter:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.parse.starter:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.parse.starter:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.parse.starter:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.parse.starter:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.parse.starter:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.parse.starter:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.parse.starter:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.parse.starter:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.parse.starter:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.parse.starter:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.parse.starter:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.parse.starter:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.parse.starter:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.parse.starter:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.parse.starter:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.parse.starter:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.parse.starter:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.parse.starter:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.parse.starter:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.parse.starter:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.parse.starter:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.parse.starter:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.parse.starter:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.parse.starter:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.parse.starter:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.parse.starter:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.parse.starter:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.parse.starter:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.parse.starter:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.parse.starter:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.parse.starter:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.parse.starter:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.parse.starter:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.parse.starter:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.parse.starter:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.parse.starter:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.parse.starter:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.parse.starter:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.parse.starter:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.parse.starter:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.parse.starter:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.parse.starter:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.parse.starter:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.parse.starter:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.parse.starter:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.parse.starter:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.parse.starter:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.parse.starter:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.parse.starter:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.parse.starter:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.dylanreinsma.anonymousgram:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.dylanreinsma.anonymousgram:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.dylanreinsma.anonymousgram:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.dylanreinsma.anonymousgram:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.dylanreinsma.anonymousgram:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.dylanreinsma.anonymousgram:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.dylanreinsma.anonymousgram:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.dylanreinsma.anonymousgram:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.dylanreinsma.anonymousgram:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.dylanreinsma.anonymousgram:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.dylanreinsma.anonymousgram:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.dylanreinsma.anonymousgram:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.dylanreinsma.anonymousgram:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.dylanreinsma.anonymousgram:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.dylanreinsma.anonymousgram:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.dylanreinsma.anonymousgram:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.dylanreinsma.anonymousgram:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.dylanreinsma.anonymousgram:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.dylanreinsma.anonymousgram:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.dylanreinsma.anonymousgram:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.dylanreinsma.anonymousgram:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.dylanreinsma.anonymousgram:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.dylanreinsma.anonymousgram:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.dylanreinsma.anonymousgram:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.dylanreinsma.anonymousgram:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.dylanreinsma.anonymousgram:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.dylanreinsma.anonymousgram:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.dylanreinsma.anonymousgram:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.dylanreinsma.anonymousgram:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.dylanreinsma.anonymousgram:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.dylanreinsma.anonymousgram:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.dylanreinsma.anonymousgram:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.dylanreinsma.anonymousgram:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.dylanreinsma.anonymousgram:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.dylanreinsma.anonymousgram:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.dylanreinsma.anonymousgram:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.dylanreinsma.anonymousgram:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.dylanreinsma.anonymousgram:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.dylanreinsma.anonymousgram:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.dylanreinsma.anonymousgram:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.dylanreinsma.anonymousgram:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.dylanreinsma.anonymousgram:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.dylanreinsma.anonymousgram:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.dylanreinsma.anonymousgram:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.dylanreinsma.anonymousgram:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.dylanreinsma.anonymousgram:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.dylanreinsma.anonymousgram:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.dylanreinsma.anonymousgram:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.dylanreinsma.anonymousgram:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.dylanreinsma.anonymousgram:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.dylanreinsma.anonymousgram:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.dylanreinsma.anonymousgram:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.dylanreinsma.anonymousgram:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -9624,17 +9626,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:barrierAllowsGoneWidgets
+     * @attr name com.dylanreinsma.anonymousgram:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9651,60 +9653,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:barrierDirection
+     * @attr name com.dylanreinsma.anonymousgram:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:chainUseRtl
+     * @attr name com.dylanreinsma.anonymousgram:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:constraint_referenced_ids
+     * @attr name com.dylanreinsma.anonymousgram:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:layout_constrainedHeight
+     * @attr name com.dylanreinsma.anonymousgram:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:layout_constrainedWidth
+     * @attr name com.dylanreinsma.anonymousgram:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintBaseline_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9720,20 +9722,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintBaseline_toBaselineOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintBottom_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9749,11 +9751,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintBottom_toBottomOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9769,11 +9771,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintBottom_toTopOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9781,20 +9783,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:layout_constraintCircle
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintCircleAngle
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9803,21 +9805,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_constraintCircleRadius
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:layout_constraintDimensionRatio
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9833,11 +9835,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintEnd_toEndOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9853,11 +9855,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintEnd_toStartOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9866,11 +9868,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_constraintGuide_begin
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9879,20 +9881,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_constraintGuide_end
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintGuide_percent
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9906,11 +9908,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintHeight_default
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9927,11 +9929,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintHeight_max
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9948,29 +9950,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintHeight_min
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintHeight_percent
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintHorizontal_bias
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9984,29 +9986,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintHorizontal_chainStyle
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintHorizontal_weight
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintLeft_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10022,11 +10024,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintLeft_toLeftOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10042,20 +10044,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintLeft_toRightOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintRight_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10071,11 +10073,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintRight_toLeftOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10091,11 +10093,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintRight_toRightOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10111,11 +10113,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintStart_toEndOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10131,20 +10133,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintStart_toStartOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:layout_constraintTop_creator
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10160,11 +10162,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintTop_toBottomOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10180,20 +10182,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintTop_toTopOf
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintVertical_bias
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10207,20 +10209,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintVertical_chainStyle
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintVertical_weight
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10234,11 +10236,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintWidth_default
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10255,11 +10257,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintWidth_max
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10276,20 +10278,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:layout_constraintWidth_min
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:layout_constraintWidth_percent
+     * @attr name com.dylanreinsma.anonymousgram:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10298,11 +10300,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_editor_absoluteX
+     * @attr name com.dylanreinsma.anonymousgram:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10311,11 +10313,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_editor_absoluteY
+     * @attr name com.dylanreinsma.anonymousgram:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10324,11 +10326,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginBottom
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10337,11 +10339,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginEnd
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10350,11 +10352,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginLeft
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10363,11 +10365,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginRight
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10376,11 +10378,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginStart
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10389,7 +10391,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:layout_goneMarginTop
+     * @attr name com.dylanreinsma.anonymousgram:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -10399,14 +10401,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Corpus_contentProviderUri com.parse.starter:contentProviderUri}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Corpus_corpusId com.parse.starter:corpusId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Corpus_corpusVersion com.parse.starter:corpusVersion}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Corpus_documentMaxAgeSecs com.parse.starter:documentMaxAgeSecs}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Corpus_perAccountTemplate com.parse.starter:perAccountTemplate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Corpus_schemaOrgType com.parse.starter:schemaOrgType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Corpus_semanticallySearchable com.parse.starter:semanticallySearchable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Corpus_trimmable com.parse.starter:trimmable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Corpus_contentProviderUri com.dylanreinsma.anonymousgram:contentProviderUri}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Corpus_corpusId com.dylanreinsma.anonymousgram:corpusId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Corpus_corpusVersion com.dylanreinsma.anonymousgram:corpusVersion}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Corpus_documentMaxAgeSecs com.dylanreinsma.anonymousgram:documentMaxAgeSecs}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Corpus_perAccountTemplate com.dylanreinsma.anonymousgram:perAccountTemplate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Corpus_schemaOrgType com.dylanreinsma.anonymousgram:schemaOrgType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Corpus_semanticallySearchable com.dylanreinsma.anonymousgram:semanticallySearchable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Corpus_trimmable com.dylanreinsma.anonymousgram:trimmable}</code></td><td></td></tr>
      * </table>
      * @see #Corpus_contentProviderUri
      * @see #Corpus_corpusId
@@ -10422,82 +10424,82 @@ public final class R {
       0x7f030127, 0x7f030135, 0x7f030144, 0x7f030187
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentProviderUri}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentProviderUri}
      * attribute's value can be found in the {@link #Corpus} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:contentProviderUri
+     * @attr name com.dylanreinsma.anonymousgram:contentProviderUri
      */
     public static final int Corpus_contentProviderUri=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#corpusId}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#corpusId}
      * attribute's value can be found in the {@link #Corpus} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:corpusId
+     * @attr name com.dylanreinsma.anonymousgram:corpusId
      */
     public static final int Corpus_corpusId=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#corpusVersion}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#corpusVersion}
      * attribute's value can be found in the {@link #Corpus} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:corpusVersion
+     * @attr name com.dylanreinsma.anonymousgram:corpusVersion
      */
     public static final int Corpus_corpusVersion=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#documentMaxAgeSecs}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#documentMaxAgeSecs}
      * attribute's value can be found in the {@link #Corpus} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:documentMaxAgeSecs
+     * @attr name com.dylanreinsma.anonymousgram:documentMaxAgeSecs
      */
     public static final int Corpus_documentMaxAgeSecs=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#perAccountTemplate}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#perAccountTemplate}
      * attribute's value can be found in the {@link #Corpus} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:perAccountTemplate
+     * @attr name com.dylanreinsma.anonymousgram:perAccountTemplate
      */
     public static final int Corpus_perAccountTemplate=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#schemaOrgType}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#schemaOrgType}
      * attribute's value can be found in the {@link #Corpus} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:schemaOrgType
+     * @attr name com.dylanreinsma.anonymousgram:schemaOrgType
      */
     public static final int Corpus_schemaOrgType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#semanticallySearchable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#semanticallySearchable}
      * attribute's value can be found in the {@link #Corpus} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:semanticallySearchable
+     * @attr name com.dylanreinsma.anonymousgram:semanticallySearchable
      */
     public static final int Corpus_semanticallySearchable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#trimmable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#trimmable}
      * attribute's value can be found in the {@link #Corpus} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:trimmable
+     * @attr name com.dylanreinsma.anonymousgram:trimmable
      */
     public static final int Corpus_trimmable=7;
     /**
@@ -10507,9 +10509,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CustomCastTheme_castExpandedControllerStyle com.parse.starter:castExpandedControllerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomCastTheme_castIntroOverlayStyle com.parse.starter:castIntroOverlayStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomCastTheme_castMiniControllerStyle com.parse.starter:castMiniControllerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomCastTheme_castExpandedControllerStyle com.dylanreinsma.anonymousgram:castExpandedControllerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomCastTheme_castIntroOverlayStyle com.dylanreinsma.anonymousgram:castIntroOverlayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomCastTheme_castMiniControllerStyle com.dylanreinsma.anonymousgram:castMiniControllerStyle}</code></td><td></td></tr>
      * </table>
      * @see #CustomCastTheme_castExpandedControllerStyle
      * @see #CustomCastTheme_castIntroOverlayStyle
@@ -10519,7 +10521,7 @@ public final class R {
       0x7f03005c, 0x7f03005f, 0x7f030060
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castExpandedControllerStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castExpandedControllerStyle}
      * attribute's value can be found in the {@link #CustomCastTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10527,11 +10529,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castExpandedControllerStyle
+     * @attr name com.dylanreinsma.anonymousgram:castExpandedControllerStyle
      */
     public static final int CustomCastTheme_castExpandedControllerStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castIntroOverlayStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castIntroOverlayStyle}
      * attribute's value can be found in the {@link #CustomCastTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10539,11 +10541,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castIntroOverlayStyle
+     * @attr name com.dylanreinsma.anonymousgram:castIntroOverlayStyle
      */
     public static final int CustomCastTheme_castIntroOverlayStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#castMiniControllerStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#castMiniControllerStyle}
      * attribute's value can be found in the {@link #CustomCastTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10551,7 +10553,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:castMiniControllerStyle
+     * @attr name com.dylanreinsma.anonymousgram:castMiniControllerStyle
      */
     public static final int CustomCastTheme_castMiniControllerStyle=2;
     /**
@@ -10561,8 +10563,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CustomWalletTheme_toolbarTextColorStyle com.parse.starter:toolbarTextColorStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CustomWalletTheme_windowTransitionStyle com.parse.starter:windowTransitionStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomWalletTheme_toolbarTextColorStyle com.dylanreinsma.anonymousgram:toolbarTextColorStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CustomWalletTheme_windowTransitionStyle com.dylanreinsma.anonymousgram:windowTransitionStyle}</code></td><td></td></tr>
      * </table>
      * @see #CustomWalletTheme_toolbarTextColorStyle
      * @see #CustomWalletTheme_windowTransitionStyle
@@ -10571,7 +10573,7 @@ public final class R {
       0x7f030180, 0x7f03019e
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#toolbarTextColorStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#toolbarTextColorStyle}
      * attribute's value can be found in the {@link #CustomWalletTheme} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10584,11 +10586,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:toolbarTextColorStyle
+     * @attr name com.dylanreinsma.anonymousgram:toolbarTextColorStyle
      */
     public static final int CustomWalletTheme_toolbarTextColorStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#windowTransitionStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#windowTransitionStyle}
      * attribute's value can be found in the {@link #CustomWalletTheme} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10601,7 +10603,7 @@ public final class R {
      * <tr><td>slide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:windowTransitionStyle
+     * @attr name com.dylanreinsma.anonymousgram:windowTransitionStyle
      */
     public static final int CustomWalletTheme_windowTransitionStyle=1;
     /**
@@ -10611,14 +10613,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.parse.starter:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.parse.starter:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.parse.starter:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.parse.starter:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.parse.starter:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.parse.starter:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.parse.starter:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.parse.starter:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.dylanreinsma.anonymousgram:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.dylanreinsma.anonymousgram:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.dylanreinsma.anonymousgram:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.dylanreinsma.anonymousgram:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.dylanreinsma.anonymousgram:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.dylanreinsma.anonymousgram:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.dylanreinsma.anonymousgram:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.dylanreinsma.anonymousgram:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -10634,7 +10636,7 @@ public final class R {
       0x7f030094, 0x7f0300ad, 0x7f03014c, 0x7f03016a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10643,11 +10645,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:arrowHeadLength
+     * @attr name com.dylanreinsma.anonymousgram:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10656,11 +10658,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:arrowShaftLength
+     * @attr name com.dylanreinsma.anonymousgram:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10669,22 +10671,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:barLength
+     * @attr name com.dylanreinsma.anonymousgram:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:color
+     * @attr name com.dylanreinsma.anonymousgram:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10693,11 +10695,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:drawableSize
+     * @attr name com.dylanreinsma.anonymousgram:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10706,21 +10708,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:gapBetweenBars
+     * @attr name com.dylanreinsma.anonymousgram:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:spinBars
+     * @attr name com.dylanreinsma.anonymousgram:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10729,7 +10731,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:thickness
+     * @attr name com.dylanreinsma.anonymousgram:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -10739,8 +10741,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FeatureParam_paramName com.parse.starter:paramName}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FeatureParam_paramValue com.parse.starter:paramValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FeatureParam_paramName com.dylanreinsma.anonymousgram:paramName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FeatureParam_paramValue com.dylanreinsma.anonymousgram:paramValue}</code></td><td></td></tr>
      * </table>
      * @see #FeatureParam_paramName
      * @see #FeatureParam_paramValue
@@ -10749,23 +10751,23 @@ public final class R {
       0x7f030125, 0x7f030126
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#paramName}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#paramName}
      * attribute's value can be found in the {@link #FeatureParam} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:paramName
+     * @attr name com.dylanreinsma.anonymousgram:paramName
      */
     public static final int FeatureParam_paramName=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#paramValue}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#paramValue}
      * attribute's value can be found in the {@link #FeatureParam} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:paramValue
+     * @attr name com.dylanreinsma.anonymousgram:paramValue
      */
     public static final int FeatureParam_paramValue=1;
     /**
@@ -10775,12 +10777,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.parse.starter:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.parse.starter:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.parse.starter:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.parse.starter:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.parse.starter:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.parse.starter:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.dylanreinsma.anonymousgram:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.dylanreinsma.anonymousgram:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.dylanreinsma.anonymousgram:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.dylanreinsma.anonymousgram:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.dylanreinsma.anonymousgram:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.dylanreinsma.anonymousgram:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -10794,17 +10796,17 @@ public final class R {
       0x7f0300a7, 0x7f0300a8
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:fontProviderAuthority
+     * @attr name com.dylanreinsma.anonymousgram:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10812,11 +10814,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:fontProviderCerts
+     * @attr name com.dylanreinsma.anonymousgram:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10829,11 +10831,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:fontProviderFetchStrategy
+     * @attr name com.dylanreinsma.anonymousgram:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -10846,27 +10848,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:fontProviderFetchTimeout
+     * @attr name com.dylanreinsma.anonymousgram:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:fontProviderPackage
+     * @attr name com.dylanreinsma.anonymousgram:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:fontProviderQuery
+     * @attr name com.dylanreinsma.anonymousgram:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -10876,9 +10878,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.parse.starter:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.parse.starter:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.parse.starter:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.dylanreinsma.anonymousgram:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.dylanreinsma.anonymousgram:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.dylanreinsma.anonymousgram:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_font
      * @see #FontFamilyFont_fontStyle
@@ -10888,7 +10890,7 @@ public final class R {
       0x7f0300a1, 0x7f0300a9, 0x7f0300aa
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10896,11 +10898,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:font
+     * @attr name com.dylanreinsma.anonymousgram:font
      */
     public static final int FontFamilyFont_font=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10913,16 +10915,16 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:fontStyle
+     * @attr name com.dylanreinsma.anonymousgram:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:fontWeight
+     * @attr name com.dylanreinsma.anonymousgram:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=2;
     /**
@@ -10932,12 +10934,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GlobalSearch_defaultIntentAction com.parse.starter:defaultIntentAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GlobalSearch_defaultIntentActivity com.parse.starter:defaultIntentActivity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GlobalSearch_defaultIntentData com.parse.starter:defaultIntentData}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GlobalSearch_searchEnabled com.parse.starter:searchEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GlobalSearch_searchLabel com.parse.starter:searchLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GlobalSearch_settingsDescription com.parse.starter:settingsDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearch_defaultIntentAction com.dylanreinsma.anonymousgram:defaultIntentAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearch_defaultIntentActivity com.dylanreinsma.anonymousgram:defaultIntentActivity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearch_defaultIntentData com.dylanreinsma.anonymousgram:defaultIntentData}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearch_searchEnabled com.dylanreinsma.anonymousgram:searchEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearch_searchLabel com.dylanreinsma.anonymousgram:searchLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearch_settingsDescription com.dylanreinsma.anonymousgram:settingsDescription}</code></td><td></td></tr>
      * </table>
      * @see #GlobalSearch_defaultIntentAction
      * @see #GlobalSearch_defaultIntentActivity
@@ -10951,63 +10953,63 @@ public final class R {
       0x7f03013a, 0x7f030145
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#defaultIntentAction}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#defaultIntentAction}
      * attribute's value can be found in the {@link #GlobalSearch} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:defaultIntentAction
+     * @attr name com.dylanreinsma.anonymousgram:defaultIntentAction
      */
     public static final int GlobalSearch_defaultIntentAction=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#defaultIntentActivity}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#defaultIntentActivity}
      * attribute's value can be found in the {@link #GlobalSearch} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:defaultIntentActivity
+     * @attr name com.dylanreinsma.anonymousgram:defaultIntentActivity
      */
     public static final int GlobalSearch_defaultIntentActivity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#defaultIntentData}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#defaultIntentData}
      * attribute's value can be found in the {@link #GlobalSearch} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:defaultIntentData
+     * @attr name com.dylanreinsma.anonymousgram:defaultIntentData
      */
     public static final int GlobalSearch_defaultIntentData=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#searchEnabled}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#searchEnabled}
      * attribute's value can be found in the {@link #GlobalSearch} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:searchEnabled
+     * @attr name com.dylanreinsma.anonymousgram:searchEnabled
      */
     public static final int GlobalSearch_searchEnabled=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#searchLabel}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#searchLabel}
      * attribute's value can be found in the {@link #GlobalSearch} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:searchLabel
+     * @attr name com.dylanreinsma.anonymousgram:searchLabel
      */
     public static final int GlobalSearch_searchLabel=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#settingsDescription}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#settingsDescription}
      * attribute's value can be found in the {@link #GlobalSearch} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:settingsDescription
+     * @attr name com.dylanreinsma.anonymousgram:settingsDescription
      */
     public static final int GlobalSearch_settingsDescription=5;
     /**
@@ -11017,7 +11019,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GlobalSearchCorpus_allowShortcuts com.parse.starter:allowShortcuts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearchCorpus_allowShortcuts com.dylanreinsma.anonymousgram:allowShortcuts}</code></td><td></td></tr>
      * </table>
      * @see #GlobalSearchCorpus_allowShortcuts
      */
@@ -11025,13 +11027,13 @@ public final class R {
       0x7f030029
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#allowShortcuts}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#allowShortcuts}
      * attribute's value can be found in the {@link #GlobalSearchCorpus} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:allowShortcuts
+     * @attr name com.dylanreinsma.anonymousgram:allowShortcuts
      */
     public static final int GlobalSearchCorpus_allowShortcuts=0;
     /**
@@ -11041,8 +11043,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GlobalSearchSection_sectionContent com.parse.starter:sectionContent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GlobalSearchSection_sectionType com.parse.starter:sectionType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearchSection_sectionContent com.dylanreinsma.anonymousgram:sectionContent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GlobalSearchSection_sectionType com.dylanreinsma.anonymousgram:sectionType}</code></td><td></td></tr>
      * </table>
      * @see #GlobalSearchSection_sectionContent
      * @see #GlobalSearchSection_sectionType
@@ -11051,17 +11053,17 @@ public final class R {
       0x7f03013c, 0x7f03013f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#sectionContent}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#sectionContent}
      * attribute's value can be found in the {@link #GlobalSearchSection} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:sectionContent
+     * @attr name com.dylanreinsma.anonymousgram:sectionContent
      */
     public static final int GlobalSearchSection_sectionContent=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#sectionType}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#sectionType}
      * attribute's value can be found in the {@link #GlobalSearchSection} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11082,7 +11084,7 @@ public final class R {
      * <tr><td>thing_proto</td><td>9</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:sectionType
+     * @attr name com.dylanreinsma.anonymousgram:sectionType
      */
     public static final int GlobalSearchSection_sectionType=1;
     /**
@@ -11092,12 +11094,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #IMECorpus_inputEnabled com.parse.starter:inputEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #IMECorpus_sourceClass com.parse.starter:sourceClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #IMECorpus_toAddressesSection com.parse.starter:toAddressesSection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #IMECorpus_userInputSection com.parse.starter:userInputSection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #IMECorpus_userInputTag com.parse.starter:userInputTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #IMECorpus_userInputValue com.parse.starter:userInputValue}</code></td><td></td></tr>
+     * <tr><td><code>{@link #IMECorpus_inputEnabled com.dylanreinsma.anonymousgram:inputEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #IMECorpus_sourceClass com.dylanreinsma.anonymousgram:sourceClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #IMECorpus_toAddressesSection com.dylanreinsma.anonymousgram:toAddressesSection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #IMECorpus_userInputSection com.dylanreinsma.anonymousgram:userInputSection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #IMECorpus_userInputTag com.dylanreinsma.anonymousgram:userInputTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #IMECorpus_userInputValue com.dylanreinsma.anonymousgram:userInputValue}</code></td><td></td></tr>
      * </table>
      * @see #IMECorpus_inputEnabled
      * @see #IMECorpus_sourceClass
@@ -11111,17 +11113,17 @@ public final class R {
       0x7f030191, 0x7f030192
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#inputEnabled}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#inputEnabled}
      * attribute's value can be found in the {@link #IMECorpus} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:inputEnabled
+     * @attr name com.dylanreinsma.anonymousgram:inputEnabled
      */
     public static final int IMECorpus_inputEnabled=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#sourceClass}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#sourceClass}
      * attribute's value can be found in the {@link #IMECorpus} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11135,47 +11137,47 @@ public final class R {
      * <tr><td>instant_message</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:sourceClass
+     * @attr name com.dylanreinsma.anonymousgram:sourceClass
      */
     public static final int IMECorpus_sourceClass=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#toAddressesSection}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#toAddressesSection}
      * attribute's value can be found in the {@link #IMECorpus} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:toAddressesSection
+     * @attr name com.dylanreinsma.anonymousgram:toAddressesSection
      */
     public static final int IMECorpus_toAddressesSection=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#userInputSection}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#userInputSection}
      * attribute's value can be found in the {@link #IMECorpus} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:userInputSection
+     * @attr name com.dylanreinsma.anonymousgram:userInputSection
      */
     public static final int IMECorpus_userInputSection=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#userInputTag}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#userInputTag}
      * attribute's value can be found in the {@link #IMECorpus} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:userInputTag
+     * @attr name com.dylanreinsma.anonymousgram:userInputTag
      */
     public static final int IMECorpus_userInputTag=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#userInputValue}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#userInputValue}
      * attribute's value can be found in the {@link #IMECorpus} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:userInputValue
+     * @attr name com.dylanreinsma.anonymousgram:userInputValue
      */
     public static final int IMECorpus_userInputValue=5;
     /**
@@ -11221,10 +11223,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.parse.starter:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.parse.starter:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.parse.starter:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.parse.starter:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.dylanreinsma.anonymousgram:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.dylanreinsma.anonymousgram:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.dylanreinsma.anonymousgram:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.dylanreinsma.anonymousgram:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -11316,7 +11318,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11324,11 +11326,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:divider
+     * @attr name com.dylanreinsma.anonymousgram:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11337,21 +11339,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:dividerPadding
+     * @attr name com.dylanreinsma.anonymousgram:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:measureWithLargestChild
+     * @attr name com.dylanreinsma.anonymousgram:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11366,7 +11368,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:showDividers
+     * @attr name com.dylanreinsma.anonymousgram:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -11522,9 +11524,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.parse.starter:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.parse.starter:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.parse.starter:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.dylanreinsma.anonymousgram:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.dylanreinsma.anonymousgram:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.dylanreinsma.anonymousgram:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -11534,26 +11536,26 @@ public final class R {
       0x7f030067, 0x7f0300b7, 0x7f0300b8
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:circleCrop
+     * @attr name com.dylanreinsma.anonymousgram:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:imageAspectRatio
+     * @attr name com.dylanreinsma.anonymousgram:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11567,7 +11569,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:imageAspectRatioAdjust
+     * @attr name com.dylanreinsma.anonymousgram:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -11577,29 +11579,29 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MapAttrs_ambientEnabled com.parse.starter:ambientEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraBearing com.parse.starter:cameraBearing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.parse.starter:cameraMaxZoomPreference}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.parse.starter:cameraMinZoomPreference}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTargetLat com.parse.starter:cameraTargetLat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTargetLng com.parse.starter:cameraTargetLng}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTilt com.parse.starter:cameraTilt}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraZoom com.parse.starter:cameraZoom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.parse.starter:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.parse.starter:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.parse.starter:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.parse.starter:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_liteMode com.parse.starter:liteMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_mapType com.parse.starter:mapType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiCompass com.parse.starter:uiCompass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiMapToolbar com.parse.starter:uiMapToolbar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiRotateGestures com.parse.starter:uiRotateGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiScrollGestures com.parse.starter:uiScrollGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiTiltGestures com.parse.starter:uiTiltGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiZoomControls com.parse.starter:uiZoomControls}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiZoomGestures com.parse.starter:uiZoomGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_useViewLifecycle com.parse.starter:useViewLifecycle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_zOrderOnTop com.parse.starter:zOrderOnTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_ambientEnabled com.dylanreinsma.anonymousgram:ambientEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraBearing com.dylanreinsma.anonymousgram:cameraBearing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.dylanreinsma.anonymousgram:cameraMaxZoomPreference}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.dylanreinsma.anonymousgram:cameraMinZoomPreference}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTargetLat com.dylanreinsma.anonymousgram:cameraTargetLat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTargetLng com.dylanreinsma.anonymousgram:cameraTargetLng}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTilt com.dylanreinsma.anonymousgram:cameraTilt}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraZoom com.dylanreinsma.anonymousgram:cameraZoom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.dylanreinsma.anonymousgram:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.dylanreinsma.anonymousgram:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.dylanreinsma.anonymousgram:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.dylanreinsma.anonymousgram:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_liteMode com.dylanreinsma.anonymousgram:liteMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_mapType com.dylanreinsma.anonymousgram:mapType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiCompass com.dylanreinsma.anonymousgram:uiCompass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiMapToolbar com.dylanreinsma.anonymousgram:uiMapToolbar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiRotateGestures com.dylanreinsma.anonymousgram:uiRotateGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiScrollGestures com.dylanreinsma.anonymousgram:uiScrollGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiTiltGestures com.dylanreinsma.anonymousgram:uiTiltGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiZoomControls com.dylanreinsma.anonymousgram:uiZoomControls}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiZoomGestures com.dylanreinsma.anonymousgram:uiZoomGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_useViewLifecycle com.dylanreinsma.anonymousgram:useViewLifecycle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_zOrderOnTop com.dylanreinsma.anonymousgram:zOrderOnTop}</code></td><td></td></tr>
      * </table>
      * @see #MapAttrs_ambientEnabled
      * @see #MapAttrs_cameraBearing
@@ -11634,126 +11636,126 @@ public final class R {
       0x7f03018e, 0x7f03018f, 0x7f03019f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#ambientEnabled}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#ambientEnabled}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:ambientEnabled
+     * @attr name com.dylanreinsma.anonymousgram:ambientEnabled
      */
     public static final int MapAttrs_ambientEnabled=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#cameraBearing}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#cameraBearing}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:cameraBearing
+     * @attr name com.dylanreinsma.anonymousgram:cameraBearing
      */
     public static final int MapAttrs_cameraBearing=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#cameraMaxZoomPreference}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#cameraMaxZoomPreference}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:cameraMaxZoomPreference
+     * @attr name com.dylanreinsma.anonymousgram:cameraMaxZoomPreference
      */
     public static final int MapAttrs_cameraMaxZoomPreference=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#cameraMinZoomPreference}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#cameraMinZoomPreference}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:cameraMinZoomPreference
+     * @attr name com.dylanreinsma.anonymousgram:cameraMinZoomPreference
      */
     public static final int MapAttrs_cameraMinZoomPreference=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#cameraTargetLat}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#cameraTargetLat}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:cameraTargetLat
+     * @attr name com.dylanreinsma.anonymousgram:cameraTargetLat
      */
     public static final int MapAttrs_cameraTargetLat=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#cameraTargetLng}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#cameraTargetLng}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:cameraTargetLng
+     * @attr name com.dylanreinsma.anonymousgram:cameraTargetLng
      */
     public static final int MapAttrs_cameraTargetLng=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#cameraTilt}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#cameraTilt}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:cameraTilt
+     * @attr name com.dylanreinsma.anonymousgram:cameraTilt
      */
     public static final int MapAttrs_cameraTilt=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#cameraZoom}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#cameraZoom}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:cameraZoom
+     * @attr name com.dylanreinsma.anonymousgram:cameraZoom
      */
     public static final int MapAttrs_cameraZoom=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#latLngBoundsNorthEastLatitude}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#latLngBoundsNorthEastLatitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:latLngBoundsNorthEastLatitude
+     * @attr name com.dylanreinsma.anonymousgram:latLngBoundsNorthEastLatitude
      */
     public static final int MapAttrs_latLngBoundsNorthEastLatitude=8;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#latLngBoundsNorthEastLongitude}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#latLngBoundsNorthEastLongitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:latLngBoundsNorthEastLongitude
+     * @attr name com.dylanreinsma.anonymousgram:latLngBoundsNorthEastLongitude
      */
     public static final int MapAttrs_latLngBoundsNorthEastLongitude=9;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#latLngBoundsSouthWestLatitude}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#latLngBoundsSouthWestLatitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:latLngBoundsSouthWestLatitude
+     * @attr name com.dylanreinsma.anonymousgram:latLngBoundsSouthWestLatitude
      */
     public static final int MapAttrs_latLngBoundsSouthWestLatitude=10;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#latLngBoundsSouthWestLongitude}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#latLngBoundsSouthWestLongitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.parse.starter:latLngBoundsSouthWestLongitude
+     * @attr name com.dylanreinsma.anonymousgram:latLngBoundsSouthWestLongitude
      */
     public static final int MapAttrs_latLngBoundsSouthWestLongitude=11;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#liteMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#liteMode}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:liteMode
+     * @attr name com.dylanreinsma.anonymousgram:liteMode
      */
     public static final int MapAttrs_liteMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#mapType}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#mapType}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11769,97 +11771,97 @@ public final class R {
      * <tr><td>terrain</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:mapType
+     * @attr name com.dylanreinsma.anonymousgram:mapType
      */
     public static final int MapAttrs_mapType=13;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#uiCompass}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#uiCompass}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:uiCompass
+     * @attr name com.dylanreinsma.anonymousgram:uiCompass
      */
     public static final int MapAttrs_uiCompass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#uiMapToolbar}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#uiMapToolbar}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:uiMapToolbar
+     * @attr name com.dylanreinsma.anonymousgram:uiMapToolbar
      */
     public static final int MapAttrs_uiMapToolbar=15;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#uiRotateGestures}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#uiRotateGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:uiRotateGestures
+     * @attr name com.dylanreinsma.anonymousgram:uiRotateGestures
      */
     public static final int MapAttrs_uiRotateGestures=16;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#uiScrollGestures}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#uiScrollGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:uiScrollGestures
+     * @attr name com.dylanreinsma.anonymousgram:uiScrollGestures
      */
     public static final int MapAttrs_uiScrollGestures=17;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#uiTiltGestures}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#uiTiltGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:uiTiltGestures
+     * @attr name com.dylanreinsma.anonymousgram:uiTiltGestures
      */
     public static final int MapAttrs_uiTiltGestures=18;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#uiZoomControls}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#uiZoomControls}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:uiZoomControls
+     * @attr name com.dylanreinsma.anonymousgram:uiZoomControls
      */
     public static final int MapAttrs_uiZoomControls=19;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#uiZoomGestures}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#uiZoomGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:uiZoomGestures
+     * @attr name com.dylanreinsma.anonymousgram:uiZoomGestures
      */
     public static final int MapAttrs_uiZoomGestures=20;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#useViewLifecycle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#useViewLifecycle}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:useViewLifecycle
+     * @attr name com.dylanreinsma.anonymousgram:useViewLifecycle
      */
     public static final int MapAttrs_useViewLifecycle=21;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#zOrderOnTop}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#zOrderOnTop}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:zOrderOnTop
+     * @attr name com.dylanreinsma.anonymousgram:zOrderOnTop
      */
     public static final int MapAttrs_zOrderOnTop=22;
     /**
@@ -11871,7 +11873,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.parse.starter:externalRouteEnabledDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable com.dylanreinsma.anonymousgram:externalRouteEnabledDrawable}</code></td><td></td></tr>
      * </table>
      * @see #MediaRouteButton_android_minWidth
      * @see #MediaRouteButton_android_minHeight
@@ -11907,7 +11909,7 @@ public final class R {
      */
     public static final int MediaRouteButton_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#externalRouteEnabledDrawable}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#externalRouteEnabledDrawable}
      * attribute's value can be found in the {@link #MediaRouteButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11915,7 +11917,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:externalRouteEnabledDrawable
+     * @attr name com.dylanreinsma.anonymousgram:externalRouteEnabledDrawable
      */
     public static final int MediaRouteButton_externalRouteEnabledDrawable=2;
     /**
@@ -12041,16 +12043,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.parse.starter:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.parse.starter:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.parse.starter:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.parse.starter:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.parse.starter:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.parse.starter:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.parse.starter:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.parse.starter:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.parse.starter:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.parse.starter:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.dylanreinsma.anonymousgram:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.dylanreinsma.anonymousgram:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.dylanreinsma.anonymousgram:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.dylanreinsma.anonymousgram:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.dylanreinsma.anonymousgram:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.dylanreinsma.anonymousgram:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.dylanreinsma.anonymousgram:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.dylanreinsma.anonymousgram:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.dylanreinsma.anonymousgram:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.dylanreinsma.anonymousgram:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -12227,7 +12229,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12235,31 +12237,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:actionLayout
+     * @attr name com.dylanreinsma.anonymousgram:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:actionProviderClass
+     * @attr name com.dylanreinsma.anonymousgram:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:actionViewClass
+     * @attr name com.dylanreinsma.anonymousgram:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12276,32 +12278,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:alphabeticModifiers
+     * @attr name com.dylanreinsma.anonymousgram:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:contentDescription
+     * @attr name com.dylanreinsma.anonymousgram:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:iconTint
+     * @attr name com.dylanreinsma.anonymousgram:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12318,11 +12320,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:iconTintMode
+     * @attr name com.dylanreinsma.anonymousgram:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12339,11 +12341,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:numericModifiers
+     * @attr name com.dylanreinsma.anonymousgram:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12359,17 +12361,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:showAsAction
+     * @attr name com.dylanreinsma.anonymousgram:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:tooltipText
+     * @attr name com.dylanreinsma.anonymousgram:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -12386,8 +12388,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.parse.starter:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.parse.starter:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.dylanreinsma.anonymousgram:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.dylanreinsma.anonymousgram:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -12492,17 +12494,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:preserveIconSpacing
+     * @attr name com.dylanreinsma.anonymousgram:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12510,7 +12512,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:subMenuArrow
+     * @attr name com.dylanreinsma.anonymousgram:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -12522,7 +12524,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.parse.starter:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.dylanreinsma.anonymousgram:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -12559,13 +12561,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:overlapAnchor
+     * @attr name com.dylanreinsma.anonymousgram:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -12575,7 +12577,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.parse.starter:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.dylanreinsma.anonymousgram:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -12583,13 +12585,13 @@ public final class R {
       0x7f030151
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:state_above_anchor
+     * @attr name com.dylanreinsma.anonymousgram:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -12599,8 +12601,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.parse.starter:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.parse.starter:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.dylanreinsma.anonymousgram:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.dylanreinsma.anonymousgram:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -12609,7 +12611,7 @@ public final class R {
       0x7f03011e, 0x7f030121
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12618,11 +12620,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:paddingBottomNoButtons
+     * @attr name com.dylanreinsma.anonymousgram:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12631,7 +12633,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:paddingTopNoTitle
+     * @attr name com.dylanreinsma.anonymousgram:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -12645,19 +12647,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.parse.starter:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.parse.starter:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.parse.starter:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.parse.starter:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.parse.starter:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.parse.starter:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.parse.starter:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.parse.starter:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.parse.starter:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.parse.starter:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.parse.starter:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.parse.starter:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.parse.starter:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.dylanreinsma.anonymousgram:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.dylanreinsma.anonymousgram:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.dylanreinsma.anonymousgram:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.dylanreinsma.anonymousgram:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.dylanreinsma.anonymousgram:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.dylanreinsma.anonymousgram:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.dylanreinsma.anonymousgram:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.dylanreinsma.anonymousgram:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.dylanreinsma.anonymousgram:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.dylanreinsma.anonymousgram:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.dylanreinsma.anonymousgram:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.dylanreinsma.anonymousgram:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.dylanreinsma.anonymousgram:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -12795,7 +12797,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12803,11 +12805,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:closeIcon
+     * @attr name com.dylanreinsma.anonymousgram:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12815,21 +12817,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:commitIcon
+     * @attr name com.dylanreinsma.anonymousgram:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:defaultQueryHint
+     * @attr name com.dylanreinsma.anonymousgram:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12837,21 +12839,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:goIcon
+     * @attr name com.dylanreinsma.anonymousgram:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:iconifiedByDefault
+     * @attr name com.dylanreinsma.anonymousgram:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12859,11 +12861,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:layout
+     * @attr name com.dylanreinsma.anonymousgram:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12871,21 +12873,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:queryBackground
+     * @attr name com.dylanreinsma.anonymousgram:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:queryHint
+     * @attr name com.dylanreinsma.anonymousgram:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12893,11 +12895,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:searchHintIcon
+     * @attr name com.dylanreinsma.anonymousgram:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12905,11 +12907,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:searchIcon
+     * @attr name com.dylanreinsma.anonymousgram:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12917,11 +12919,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:submitBackground
+     * @attr name com.dylanreinsma.anonymousgram:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12929,11 +12931,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:suggestionRowLayout
+     * @attr name com.dylanreinsma.anonymousgram:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12941,7 +12943,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:voiceIcon
+     * @attr name com.dylanreinsma.anonymousgram:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -12951,13 +12953,13 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Section_indexPrefixes com.parse.starter:indexPrefixes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Section_noIndex com.parse.starter:noIndex}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Section_schemaOrgProperty com.parse.starter:schemaOrgProperty}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Section_sectionFormat com.parse.starter:sectionFormat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Section_sectionId com.parse.starter:sectionId}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Section_sectionWeight com.parse.starter:sectionWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Section_subsectionSeparator com.parse.starter:subsectionSeparator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Section_indexPrefixes com.dylanreinsma.anonymousgram:indexPrefixes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Section_noIndex com.dylanreinsma.anonymousgram:noIndex}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Section_schemaOrgProperty com.dylanreinsma.anonymousgram:schemaOrgProperty}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Section_sectionFormat com.dylanreinsma.anonymousgram:sectionFormat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Section_sectionId com.dylanreinsma.anonymousgram:sectionId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Section_sectionWeight com.dylanreinsma.anonymousgram:sectionWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Section_subsectionSeparator com.dylanreinsma.anonymousgram:subsectionSeparator}</code></td><td></td></tr>
      * </table>
      * @see #Section_indexPrefixes
      * @see #Section_noIndex
@@ -12972,37 +12974,37 @@ public final class R {
       0x7f03013e, 0x7f030140, 0x7f030154
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#indexPrefixes}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#indexPrefixes}
      * attribute's value can be found in the {@link #Section} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:indexPrefixes
+     * @attr name com.dylanreinsma.anonymousgram:indexPrefixes
      */
     public static final int Section_indexPrefixes=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#noIndex}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#noIndex}
      * attribute's value can be found in the {@link #Section} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:noIndex
+     * @attr name com.dylanreinsma.anonymousgram:noIndex
      */
     public static final int Section_noIndex=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#schemaOrgProperty}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#schemaOrgProperty}
      * attribute's value can be found in the {@link #Section} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:schemaOrgProperty
+     * @attr name com.dylanreinsma.anonymousgram:schemaOrgProperty
      */
     public static final int Section_schemaOrgProperty=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#sectionFormat}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#sectionFormat}
      * attribute's value can be found in the {@link #Section} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13017,36 +13019,36 @@ public final class R {
      * <tr><td>url</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:sectionFormat
+     * @attr name com.dylanreinsma.anonymousgram:sectionFormat
      */
     public static final int Section_sectionFormat=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#sectionId}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#sectionId}
      * attribute's value can be found in the {@link #Section} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:sectionId
+     * @attr name com.dylanreinsma.anonymousgram:sectionId
      */
     public static final int Section_sectionId=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#sectionWeight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#sectionWeight}
      * attribute's value can be found in the {@link #Section} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.parse.starter:sectionWeight
+     * @attr name com.dylanreinsma.anonymousgram:sectionWeight
      */
     public static final int Section_sectionWeight=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#subsectionSeparator}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#subsectionSeparator}
      * attribute's value can be found in the {@link #Section} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:subsectionSeparator
+     * @attr name com.dylanreinsma.anonymousgram:subsectionSeparator
      */
     public static final int Section_subsectionSeparator=6;
     /**
@@ -13056,7 +13058,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SectionFeature_featureType com.parse.starter:featureType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SectionFeature_featureType com.dylanreinsma.anonymousgram:featureType}</code></td><td></td></tr>
      * </table>
      * @see #SectionFeature_featureType
      */
@@ -13064,7 +13066,7 @@ public final class R {
       0x7f0300a0
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#featureType}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#featureType}
      * attribute's value can be found in the {@link #SectionFeature} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13081,7 +13083,7 @@ public final class R {
      * <tr><td>omnibox_url_section</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:featureType
+     * @attr name com.dylanreinsma.anonymousgram:featureType
      */
     public static final int SectionFeature_featureType=0;
     /**
@@ -13091,9 +13093,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.parse.starter:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.parse.starter:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.parse.starter:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.dylanreinsma.anonymousgram:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.dylanreinsma.anonymousgram:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.dylanreinsma.anonymousgram:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -13103,7 +13105,7 @@ public final class R {
       0x7f030047, 0x7f030076, 0x7f030136
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13121,11 +13123,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:buttonSize
+     * @attr name com.dylanreinsma.anonymousgram:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13143,11 +13145,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:colorScheme
+     * @attr name com.dylanreinsma.anonymousgram:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13157,7 +13159,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:scopeUris
+     * @attr name com.dylanreinsma.anonymousgram:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -13171,7 +13173,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.parse.starter:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.dylanreinsma.anonymousgram:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -13246,7 +13248,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13254,7 +13256,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:popupTheme
+     * @attr name com.dylanreinsma.anonymousgram:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -13267,17 +13269,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.parse.starter:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.parse.starter:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.parse.starter:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.parse.starter:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.parse.starter:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.parse.starter:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.parse.starter:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.parse.starter:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.parse.starter:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.parse.starter:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.parse.starter:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.dylanreinsma.anonymousgram:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.dylanreinsma.anonymousgram:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.dylanreinsma.anonymousgram:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.dylanreinsma.anonymousgram:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.dylanreinsma.anonymousgram:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.dylanreinsma.anonymousgram:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.dylanreinsma.anonymousgram:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.dylanreinsma.anonymousgram:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.dylanreinsma.anonymousgram:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.dylanreinsma.anonymousgram:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.dylanreinsma.anonymousgram:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -13333,27 +13335,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:showText
+     * @attr name com.dylanreinsma.anonymousgram:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:splitTrack
+     * @attr name com.dylanreinsma.anonymousgram:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13362,11 +13364,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:switchMinWidth
+     * @attr name com.dylanreinsma.anonymousgram:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13375,11 +13377,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:switchPadding
+     * @attr name com.dylanreinsma.anonymousgram:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13387,11 +13389,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:switchTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13400,22 +13402,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:thumbTextPadding
+     * @attr name com.dylanreinsma.anonymousgram:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:thumbTint
+     * @attr name com.dylanreinsma.anonymousgram:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13432,11 +13434,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:thumbTintMode
+     * @attr name com.dylanreinsma.anonymousgram:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13444,22 +13446,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:track
+     * @attr name com.dylanreinsma.anonymousgram:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:trackTint
+     * @attr name com.dylanreinsma.anonymousgram:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13476,7 +13478,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:trackTintMode
+     * @attr name com.dylanreinsma.anonymousgram:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -13497,8 +13499,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.parse.starter:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.parse.starter:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.dylanreinsma.anonymousgram:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.dylanreinsma.anonymousgram:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -13664,17 +13666,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:fontFamily
+     * @attr name com.dylanreinsma.anonymousgram:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13684,7 +13686,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.parse.starter:textAllCaps
+     * @attr name com.dylanreinsma.anonymousgram:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -13696,33 +13698,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.parse.starter:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.parse.starter:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.parse.starter:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.parse.starter:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.parse.starter:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.parse.starter:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.parse.starter:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.parse.starter:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.parse.starter:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.parse.starter:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.parse.starter:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.parse.starter:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.parse.starter:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.parse.starter:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.parse.starter:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.parse.starter:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.parse.starter:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.parse.starter:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.parse.starter:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.parse.starter:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.parse.starter:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.parse.starter:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.parse.starter:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.parse.starter:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.parse.starter:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.parse.starter:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.parse.starter:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.dylanreinsma.anonymousgram:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.dylanreinsma.anonymousgram:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.dylanreinsma.anonymousgram:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.dylanreinsma.anonymousgram:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.dylanreinsma.anonymousgram:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.dylanreinsma.anonymousgram:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.dylanreinsma.anonymousgram:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.dylanreinsma.anonymousgram:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.dylanreinsma.anonymousgram:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.dylanreinsma.anonymousgram:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.dylanreinsma.anonymousgram:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.dylanreinsma.anonymousgram:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.dylanreinsma.anonymousgram:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.dylanreinsma.anonymousgram:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.dylanreinsma.anonymousgram:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.dylanreinsma.anonymousgram:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.dylanreinsma.anonymousgram:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.dylanreinsma.anonymousgram:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.dylanreinsma.anonymousgram:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.dylanreinsma.anonymousgram:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.dylanreinsma.anonymousgram:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.dylanreinsma.anonymousgram:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.dylanreinsma.anonymousgram:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.dylanreinsma.anonymousgram:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.dylanreinsma.anonymousgram:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.dylanreinsma.anonymousgram:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.dylanreinsma.anonymousgram:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -13807,7 +13809,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -13820,21 +13822,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:buttonGravity
+     * @attr name com.dylanreinsma.anonymousgram:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:collapseContentDescription
+     * @attr name com.dylanreinsma.anonymousgram:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13842,11 +13844,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:collapseIcon
+     * @attr name com.dylanreinsma.anonymousgram:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13855,11 +13857,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetEnd
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13868,11 +13870,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetEndWithActions
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13881,11 +13883,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetLeft
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13894,11 +13896,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetRight
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13907,11 +13909,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetStart
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13920,11 +13922,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:contentInsetStartWithNavigation
+     * @attr name com.dylanreinsma.anonymousgram:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13932,21 +13934,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:logo
+     * @attr name com.dylanreinsma.anonymousgram:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:logoDescription
+     * @attr name com.dylanreinsma.anonymousgram:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13955,21 +13957,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:maxButtonHeight
+     * @attr name com.dylanreinsma.anonymousgram:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:navigationContentDescription
+     * @attr name com.dylanreinsma.anonymousgram:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13977,11 +13979,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:navigationIcon
+     * @attr name com.dylanreinsma.anonymousgram:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13989,21 +13991,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:popupTheme
+     * @attr name com.dylanreinsma.anonymousgram:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:subtitle
+     * @attr name com.dylanreinsma.anonymousgram:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14011,32 +14013,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:subtitleTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:subtitleTextColor
+     * @attr name com.dylanreinsma.anonymousgram:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.parse.starter:title
+     * @attr name com.dylanreinsma.anonymousgram:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14045,11 +14047,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:titleMargin
+     * @attr name com.dylanreinsma.anonymousgram:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14058,11 +14060,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:titleMarginBottom
+     * @attr name com.dylanreinsma.anonymousgram:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14071,11 +14073,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:titleMarginEnd
+     * @attr name com.dylanreinsma.anonymousgram:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14084,11 +14086,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:titleMarginStart
+     * @attr name com.dylanreinsma.anonymousgram:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14097,11 +14099,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:titleMarginTop
+     * @attr name com.dylanreinsma.anonymousgram:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14110,11 +14112,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:titleMargins
+     * @attr name com.dylanreinsma.anonymousgram:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14122,18 +14124,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:titleTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:titleTextColor
+     * @attr name com.dylanreinsma.anonymousgram:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -14145,9 +14147,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.parse.starter:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.parse.starter:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.parse.starter:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.dylanreinsma.anonymousgram:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.dylanreinsma.anonymousgram:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.dylanreinsma.anonymousgram:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -14190,7 +14192,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14199,11 +14201,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:paddingEnd
+     * @attr name com.dylanreinsma.anonymousgram:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14212,11 +14214,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.parse.starter:paddingStart
+     * @attr name com.dylanreinsma.anonymousgram:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14224,7 +14226,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:theme
+     * @attr name com.dylanreinsma.anonymousgram:theme
      */
     public static final int View_theme=4;
     /**
@@ -14235,8 +14237,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.parse.starter:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.parse.starter:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.dylanreinsma.anonymousgram:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.dylanreinsma.anonymousgram:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -14261,18 +14263,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:backgroundTint
+     * @attr name com.dylanreinsma.anonymousgram:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14288,7 +14290,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:backgroundTintMode
+     * @attr name com.dylanreinsma.anonymousgram:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -14352,10 +14354,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #WalletFragmentOptions_appTheme com.parse.starter:appTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentOptions_environment com.parse.starter:environment}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentOptions_fragmentMode com.parse.starter:fragmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle com.parse.starter:fragmentStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentOptions_appTheme com.dylanreinsma.anonymousgram:appTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentOptions_environment com.dylanreinsma.anonymousgram:environment}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentOptions_fragmentMode com.dylanreinsma.anonymousgram:fragmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentOptions_fragmentStyle com.dylanreinsma.anonymousgram:fragmentStyle}</code></td><td></td></tr>
      * </table>
      * @see #WalletFragmentOptions_appTheme
      * @see #WalletFragmentOptions_environment
@@ -14366,7 +14368,7 @@ public final class R {
       0x7f03002e, 0x7f03009d, 0x7f0300ab, 0x7f0300ac
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#appTheme}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#appTheme}
      * attribute's value can be found in the {@link #WalletFragmentOptions} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14379,11 +14381,11 @@ public final class R {
      * <tr><td>holo_light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:appTheme
+     * @attr name com.dylanreinsma.anonymousgram:appTheme
      */
     public static final int WalletFragmentOptions_appTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#environment}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#environment}
      * attribute's value can be found in the {@link #WalletFragmentOptions} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14398,11 +14400,11 @@ public final class R {
      * <tr><td>test</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:environment
+     * @attr name com.dylanreinsma.anonymousgram:environment
      */
     public static final int WalletFragmentOptions_environment=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fragmentMode}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fragmentMode}
      * attribute's value can be found in the {@link #WalletFragmentOptions} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14415,11 +14417,11 @@ public final class R {
      * <tr><td>selectionDetails</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:fragmentMode
+     * @attr name com.dylanreinsma.anonymousgram:fragmentMode
      */
     public static final int WalletFragmentOptions_fragmentMode=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#fragmentStyle}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#fragmentStyle}
      * attribute's value can be found in the {@link #WalletFragmentOptions} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14427,7 +14429,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:fragmentStyle
+     * @attr name com.dylanreinsma.anonymousgram:fragmentStyle
      */
     public static final int WalletFragmentOptions_fragmentStyle=3;
     /**
@@ -14437,17 +14439,17 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance com.parse.starter:buyButtonAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight com.parse.starter:buyButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_buyButtonText com.parse.starter:buyButtonText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth com.parse.starter:buyButtonWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground com.parse.starter:maskedWalletDetailsBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground com.parse.starter:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance com.parse.starter:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance com.parse.starter:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType com.parse.starter:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor com.parse.starter:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance com.parse.starter:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_buyButtonAppearance com.dylanreinsma.anonymousgram:buyButtonAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_buyButtonHeight com.dylanreinsma.anonymousgram:buyButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_buyButtonText com.dylanreinsma.anonymousgram:buyButtonText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_buyButtonWidth com.dylanreinsma.anonymousgram:buyButtonWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsBackground com.dylanreinsma.anonymousgram:maskedWalletDetailsBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonBackground com.dylanreinsma.anonymousgram:maskedWalletDetailsButtonBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance com.dylanreinsma.anonymousgram:maskedWalletDetailsButtonTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance com.dylanreinsma.anonymousgram:maskedWalletDetailsHeaderTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoImageType com.dylanreinsma.anonymousgram:maskedWalletDetailsLogoImageType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsLogoTextColor com.dylanreinsma.anonymousgram:maskedWalletDetailsLogoTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #WalletFragmentStyle_maskedWalletDetailsTextAppearance com.dylanreinsma.anonymousgram:maskedWalletDetailsTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #WalletFragmentStyle_buyButtonAppearance
      * @see #WalletFragmentStyle_buyButtonHeight
@@ -14467,7 +14469,7 @@ public final class R {
       0x7f03010a, 0x7f03010b, 0x7f03010c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buyButtonAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buyButtonAppearance}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14487,11 +14489,11 @@ public final class R {
      * <tr><td>monochrome</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:buyButtonAppearance
+     * @attr name com.dylanreinsma.anonymousgram:buyButtonAppearance
      */
     public static final int WalletFragmentStyle_buyButtonAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buyButtonHeight}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buyButtonHeight}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14509,11 +14511,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:buyButtonHeight
+     * @attr name com.dylanreinsma.anonymousgram:buyButtonHeight
      */
     public static final int WalletFragmentStyle_buyButtonHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buyButtonText}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buyButtonText}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14531,11 +14533,11 @@ public final class R {
      * <tr><td>logo_only</td><td>6</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:buyButtonText
+     * @attr name com.dylanreinsma.anonymousgram:buyButtonText
      */
     public static final int WalletFragmentStyle_buyButtonText=2;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#buyButtonWidth}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#buyButtonWidth}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14553,11 +14555,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:buyButtonWidth
+     * @attr name com.dylanreinsma.anonymousgram:buyButtonWidth
      */
     public static final int WalletFragmentStyle_buyButtonWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#maskedWalletDetailsBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#maskedWalletDetailsBackground}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14568,11 +14570,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:maskedWalletDetailsBackground
+     * @attr name com.dylanreinsma.anonymousgram:maskedWalletDetailsBackground
      */
     public static final int WalletFragmentStyle_maskedWalletDetailsBackground=4;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#maskedWalletDetailsButtonBackground}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#maskedWalletDetailsButtonBackground}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14583,11 +14585,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:maskedWalletDetailsButtonBackground
+     * @attr name com.dylanreinsma.anonymousgram:maskedWalletDetailsButtonBackground
      */
     public static final int WalletFragmentStyle_maskedWalletDetailsButtonBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#maskedWalletDetailsButtonTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#maskedWalletDetailsButtonTextAppearance}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14595,11 +14597,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:maskedWalletDetailsButtonTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:maskedWalletDetailsButtonTextAppearance
      */
     public static final int WalletFragmentStyle_maskedWalletDetailsButtonTextAppearance=6;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#maskedWalletDetailsHeaderTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#maskedWalletDetailsHeaderTextAppearance}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14607,11 +14609,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:maskedWalletDetailsHeaderTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:maskedWalletDetailsHeaderTextAppearance
      */
     public static final int WalletFragmentStyle_maskedWalletDetailsHeaderTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#maskedWalletDetailsLogoImageType}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#maskedWalletDetailsLogoImageType}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14627,22 +14629,22 @@ public final class R {
      * <tr><td>monochrome</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.parse.starter:maskedWalletDetailsLogoImageType
+     * @attr name com.dylanreinsma.anonymousgram:maskedWalletDetailsLogoImageType
      */
     public static final int WalletFragmentStyle_maskedWalletDetailsLogoImageType=8;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#maskedWalletDetailsLogoTextColor}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#maskedWalletDetailsLogoTextColor}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.parse.starter:maskedWalletDetailsLogoTextColor
+     * @attr name com.dylanreinsma.anonymousgram:maskedWalletDetailsLogoTextColor
      */
     public static final int WalletFragmentStyle_maskedWalletDetailsLogoTextColor=9;
     /**
-     * <p>This symbol is the offset where the {@link com.parse.starter.R.attr#maskedWalletDetailsTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dylanreinsma.anonymousgram.R.attr#maskedWalletDetailsTextAppearance}
      * attribute's value can be found in the {@link #WalletFragmentStyle} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14650,7 +14652,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.parse.starter:maskedWalletDetailsTextAppearance
+     * @attr name com.dylanreinsma.anonymousgram:maskedWalletDetailsTextAppearance
      */
     public static final int WalletFragmentStyle_maskedWalletDetailsTextAppearance=10;
   }
