@@ -113,6 +113,17 @@ public class UserActivity extends AppCompatActivity {
             } else {
                 getPhoto();
             }
+        } else if (item.getItemId() == R.id.logout) {
+            ParseUser.getCurrentUser().logOut();
+            //ParseUser currentUser = ParseUser.getCurrentUser();
+
+            Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+//            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+//            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+
+            startActivity(intent);
+            return true;
+//            super.finish();
         }
 
         return super.onOptionsItemSelected(item);
@@ -122,6 +133,8 @@ public class UserActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user);
+
+        setTitle("User List");
 
         final ListView listView = findViewById(R.id.userListView);
         final ArrayList<String> usernames = new ArrayList<String>();
