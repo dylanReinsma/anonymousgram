@@ -3320,6 +3320,10 @@
         "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/aaffa8c1ecbd670a18a2b7fd7416ff5a/res/drawable/abc_vector_test.xml"
     },
     {
+        "merged": "/Users/admin/Documents/StudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_feed.xml.flat",
+        "source": "/Users/admin/Documents/StudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_feed.xml"
+    },
+    {
         "merged": "/Users/admin/Documents/StudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/admin/.gradle/caches/transforms-2/files-2.1/aaffa8c1ecbd670a18a2b7fd7416ff5a/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },

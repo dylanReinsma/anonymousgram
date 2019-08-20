@@ -97,7 +97,19 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (username.matches("") || password.matches("")) {
             Toast.makeText(this, "A username and password are required", Toast.LENGTH_LONG).show();
         } else {
-            if (logInModeActive = false) {
+            if (logInModeActive) {
+                ParseUser.logInInBackground(username, password, new LogInCallback() {
+                    @Override
+                    public void done(ParseUser parseUser, ParseException e) {
+                        if (parseUser != null) {
+                            Log.i("Login", "ok!");
+                            showUsers();
+                        } else {
+                            Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
+                        }
+                    }
+                });
+            } else {
                 ParseUser user = new ParseUser();
                 user.setUsername(username);
                 user.setPassword(password);
@@ -107,18 +119,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     public void done(ParseException e) {
                         if (e == null) {
                             Log.i("Signup", "Success");
-                            showUsers();
-                        } else {
-                            Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
-                        }
-                    }
-                });
-            } else {
-                ParseUser.logInInBackground(username, password, new LogInCallback() {
-                    @Override
-                    public void done(ParseUser parseUser, ParseException e) {
-                        if (parseUser != null) {
-                            Log.i("Login", "ok!");
                             showUsers();
                         } else {
                             Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_LONG).show();
